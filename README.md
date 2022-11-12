@@ -1,4 +1,4 @@
-# Language
+# Language Learning
 
 ## The Words and Phrases and Sentences
 
@@ -8,8 +8,8 @@
 
 **S01**:
 
-1. E01
+1. [E01](Friends/S01/E01.md)
 
-## The Difference
+## The Differences
 
 1. [Almost & Nearly](Differences/Almost_Nearly.md)
