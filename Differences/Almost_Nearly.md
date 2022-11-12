@@ -1,12 +1,12 @@
 # The Differences Between Almost and Nearly
 
-#### How They Are Defined: 
+## How They Are Defined: 
 
 - Almost: not quites, very nearly, not completely.
 
 - Nearly: very close to, almost, not completely.
 
-#### The Differences
+## The Differences
 
 'almost' and 'nearly' are interchangeable in most cases.
 
@@ -14,7 +14,7 @@ The only difference is that, usually, 'nearly' can't  be used in negative senten
 
 Don't use 'nearly' before negative words such as 'no' or 'nothing' or 'never'.
 
-#### Sentence Examples
+## Sentence Examples
 
 He is almost/nearly sixty, but he looks young for his age.
 

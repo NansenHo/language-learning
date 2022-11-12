@@ -13,3 +13,4 @@
 ## The Differences
 
 1. [Almost & Nearly](Differences/Almost_Nearly.md)
+2. [Whore & Bitch](Differences/Whore_Bitch.md)
