@@ -1,16 +1,19 @@
-# Language Learning
+# Table of Content
 
-## The Words and Phrases and Sentences
+- Talking English
+  - [身材好](Talking_English/身材好.md)
+  - [真下头](Talking_English/真下头.md)
 
-1. [About Code](Words/code.md)
+- Code
+  - [Working](Code/Working.md)
+  - [Coding](Code/Coding.md)
+  - [Algorithm](Code/Algorithm.md)
+  - [JavaScript](Code/JavaScript.md)
 
-## Friends
+- Friends
+  - S01
+    - [E01](Friends/S01/E01.md)
 
-**S01**:
-
-1. [E01](Friends/S01/E01.md)
-
-## The Differences
-
-1. [Almost & Nearly](Differences/Almost_Nearly.md)
-2. [Whore & Bitch](Differences/Whore_Bitch.md)
+- Differences
+  - [Almost & Nearly](Differences/Almost_Nearly.md)
+  - [Whore & Bitch](Differences/Whore_Bitch.md)
