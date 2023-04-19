@@ -1,10 +1,13 @@
-# TEST
+# Performance
+
+- [フロントエンドを最適化する9つのコツ！Webパフォーマンスを「積み重ね」で向上させよう](https://www.seleqt.net/programming/how-to-optimize-frontend/)
+
 
 | English | Meanings | Japanese | Chinese |
 | --- | --- | --- | --- |
-| Object-oriented programming (OOP) |  | オブジェクト指向プログラミング | 面向对象程序设计 |
-| override / overwrite |  | オーバーライド | 重写 |
-| overload |  | オーバーロード | 重载 |
+|  |  | 記述（） |  |
+|  |  |  |  |
+|  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
