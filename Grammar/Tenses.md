@@ -30,6 +30,7 @@ We use simple tenses for
 - repeated actions
 - things that are always true like facts
 - describe states
+- single actions（No repeated actions, no states.）
 
 A state is a **situation** or an **opinion** or a **feeling**.
 States don't change often.
@@ -40,6 +41,7 @@ States don't change often.
 - I **do not wake up** at 6 a.m. every morning.
 - **Do** you **wake up**at 6 a.m. every morning?
 - Doug is our team leader.
+- I enjoy pop music.
 
 #### Past Simple
 
@@ -57,6 +59,7 @@ we need a bit more detail.
 - I had long hair **until I turned 18**. (past state and a specific time)
 - **Last year**, Doug was our team leader.
 - **When I was a kid**, I never eta the crust on the toast. I hated it.
+- **When I was a little kid**, I had a very cute yorkie.
 
 #### Future Simple
 
@@ -70,6 +73,7 @@ we need a bit more detail.
 - **In a few years**, I will have long hair. (that will be my future state)
 - **Next Week**, Doug will be our new team leader.
 - **Next Year**, I will floss more.
+- What will earth be like in one thousand years.
 
 ## Some Words and Phrases
 
@@ -86,8 +90,8 @@ we need a bit more detail.
 | situation<br/>/ˌsɪtʃ.uˈeɪ.ʃən/ | the set of things that are happening and the conditions that exist at a particular time and place. ||
 | opinion<br/>/əˈpɪn.jən/ | a thought or belief about something or someone. ||
 | floss<br/>/flɑːs/ | to clean between your teeth using dental floss ||
-||||
-||||
+| yorkie | yorkie is a short name for Yorkshire Terrier. ||
+| omelette<br/>/ˈɑː.mə.lət/ | a dish made by mixing eggs together and frying them, often with small pieces of other food such as cheese or vegetables. ||
 ||||
 ||||
 ||||
