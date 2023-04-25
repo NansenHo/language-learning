@@ -22,7 +22,7 @@ Each Tense has its own unique grammatical structure.
 
 ## Grammatical Structure
 
-### Simple Tenses
+### All Simple Tenses
 
 We use simple tenses for 
 
@@ -30,7 +30,7 @@ We use simple tenses for
 - repeated actions
 - things that are always true like facts
 - describe states
-- single actions（No repeated actions, no states.）
+- single action, one action（No repeated actions, no states.）
 
 A state is a **situation** or an **opinion** or a **feeling**.
 States don't change often.
@@ -42,6 +42,18 @@ States don't change often.
 - **Do** you **wake up**at 6 a.m. every morning?
 - Doug is our team leader.
 - I enjoy pop music.
+- I made an omelette for breakfast.
+
+##### Special present simple
+
+Present simple can be used for a scheduled future event.
+
+But it's something that's scheduled, it's not something that we can control.
+
+- My bus leaves in 10 minutes.
+- Our train leaves at 9.
+- The movie starts in 30 minutes.
+- My classes start next week.
 
 #### Past Simple
 
@@ -60,11 +72,14 @@ we need a bit more detail.
 - **Last year**, Doug was our team leader.
 - **When I was a kid**, I never eta the crust on the toast. I hated it.
 - **When I was a little kid**, I had a very cute yorkie.
+- I bought a new phone yesterday.
 
 #### Future Simple
 
 In the future simple, we also need a specific time.
 we need a bit more detail.
+
+Because we always know what's going to happen in the future, that future simple is often used for predictions and promises.
 
 - Starting the 15th of January, I **will wake up** at 6 a.m. every morning.
 - I **will not wake up** at 6 a.m. every morning.
@@ -74,6 +89,47 @@ we need a bit more detail.
 - **Next Week**, Doug will be our new team leader.
 - **Next Year**, I will floss more.
 - What will earth be like in one thousand years.
+- The chef will prepare something nice for us.
+
+### All Continuous Tenses
+
+Continuous tenses express a **temporary** action or situation. They are not permanent or repeated actions like the simple tenses.
+
+The continuous tenses can't be the main action, but many times they are the **background action**.
+We usually see this with the past continuous and the future continuous.
+
+
+#### Present Continuous
+
+- I am talking to you.
+- It's getting dark. (It doesn't get dark forever.)
+- I was holding a cup of coffee on the couch when my son bumped into me.
+
+#### Past Continuous
+
+we need a specific time.
+
+- I was talking to you yesterday.
+- What were you doing at 3 pm yesterday?
+- Don't message me after 6. I **will be having dinner**(background action) with my boss.
+- I know Keira will be loving the party.
+
+#### Future Continuous
+
+we need a specific time.
+
+- I will be talking to you in 1 hour.
+- What will you be doing 3 hours from now?
+
+## Stative verb & Dynamic verb
+
+stative verb describe a state rather than an action.
+
+1. feelings
+2. thoughts
+3. emotions
+
+Dynamic verb like eat, work, run...
 
 ## Some Words and Phrases
 
@@ -92,15 +148,15 @@ we need a bit more detail.
 | floss<br/>/flɑːs/ | to clean between your teeth using dental floss ||
 | yorkie | yorkie is a short name for Yorkshire Terrier. ||
 | omelette<br/>/ˈɑː.mə.lət/ | a dish made by mixing eggs together and frying them, often with small pieces of other food such as cheese or vegetables. ||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
+| permanent<br/>/ˈpɝː.mə.nənt/ | lasting for a long time or for ever; ||
+| temporary<br/>/ˈtem.pə.rer.i/ | not lasting or needed for very long. ||
+| term<br/>/tɝːm/ | [noun TIME] the fixed period of time that something lasts for. ||
+| addition | the process of adding numbers or amounts together. ||
+| subtraction<br/>/səbˈtræk.ʃən/ | the process of removing one number from another. ||
+| elementary | basic;<br/>relating to the early stages of studying a subject. ||
+| bump<br/>/bʌmp/ | to hit something with force. ||
+| combination<br/>/ˌkɑːm.bəˈneɪ.ʃən/ | the mixture you get when two or more things are combined. ||
+| stative verb | stative verb describe a state rather than an action.<br/>These can be our **feelings**, our **thoughts**, and our **emotions**.||
 ||||
 ||||
 ||||
