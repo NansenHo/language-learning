@@ -81,6 +81,8 @@ we need a bit more detail.
 
 Because we always know what's going to happen in the future, that future simple is often used for predictions and promises.
 
+We can't use future simple for a future plan. The present continuous is the better and more natural choice.
+
 - Starting the 15th of January, I **will wake up** at 6 a.m. every morning.
 - I **will not wake up** at 6 a.m. every morning.
 - **Will** you **wake up** at 6 a.m. every morning?
@@ -93,17 +95,46 @@ Because we always know what's going to happen in the future, that future simple 
 
 ### All Continuous Tenses
 
-Continuous tenses express a **temporary** action or situation. They are not permanent or repeated actions like the simple tenses.
+Continuous tenses express a **temporary** action or situation. 
+They are not permanent or repeated actions like the simple tenses.
 
-The continuous tenses can't be the main action, but many times they are the **background action**.
-We usually see this with the past continuous and the future continuous.
+The continuous tenses can be the main action, but many times with the **past continuous** and **future continuous**, they express **background action**.
 
+These background actions are either **interrupted by a main action**, or the main action happens at **the same time**. 
+
+**[stative verb](./Stative-verb-Dynamic-verb.md)** is not used in continuous tenses.
 
 #### Present Continuous
 
 - I am talking to you.
 - It's getting dark. (It doesn't get dark forever.)
 - I was holding a cup of coffee on the couch when my son bumped into me.
+- They're loving it! (this is casual english, but not for english exams.)
+
+##### for a future plan
+
+We can use the present continuous for a future plan.
+
+We can't use future simple for a future plan. The present continuous is the better and more natural choice.
+
+- Tomorrow we are flying to Rome.
+- I'm meeting Jake and Ellen for dinner tonight.
+- What are you doing this weekend?
+
+##### present continuous & be going to for a future plan
+
+Native speakers use both of these forms interchangeable all the time, and they are both correct.
+
+- I'm going to meet Jake and Ellen for dinner tonight.
+- I'm meeting Jake and Ellen for dinner tonight. 
+
+But, let's get super specific.
+
+1. be going to do something is often used with a future **intention**.
+2. present continuous is more **definite**.
+
+- I'm going to stay at home and watch movies all day.
+- I'm taking my students to a museum.
 
 #### Past Continuous
 
@@ -121,15 +152,116 @@ we need a specific time.
 - I will be talking to you in 1 hour.
 - What will you be doing 3 hours from now?
 
-## Stative verb & Dynamic verb
+#### simple tenses: premanent & continuous tenses: temporary
 
-stative verb describe a state rather than an action.
+| simple tenses: premanent | continuous tenses: temporary |
+| --- | --- |
+| I work in Tucson. | I'm working in Tucson. |
+| :point_up: This is my life, this is where I live, this is where my office is. | :point_up: Maybe I normally work in Mesa, a different city, but for two weeks I'm working in Tucson. |
+| I worked in Tucson. | I was working in Tucson.  |
+| :point_up: This was my life,... | :point_up: I couldn't go to the office party because I was working in Tucson, last week. |
+| I will work in Tucson. | I will be working in Tucson. |
+| :point_up: This will be my new futrue life, ... | :point_up: I will be working in Tucson, temporarily. |
 
-1. feelings
-2. thoughts
-3. emotions
+The continuous tenses express a temporary action during a specific period.
 
-Dynamic verb like eat, work, run...
+- I'm studying now.
+- I was studying this morning.
+- I will be studying tonight.
+
+### All Perfect Tenses
+
+Perfect tenses emphasize an action before something else.
+
+1. **Past perfect** before **another past point**;
+There is a connection between the past action and the present.
+2. **Present perfect** before **now**;
+3. **Future perfect** before **another future point**;
+
+#### Present Perfect
+
+> subject + have/has + past participle
+
+- I have (not) eaten at Rosario's
+- Have you eaten at Rosario's
+- I have been to Paris. (before the present)
+Maybe I'm having a coffee break at work and one of my colleagues keeps talking and talking about her trip to Paris. And she says to me: Nansen, you have to go to Paris, you need to go to Paris.
+I can say I have been there, I have been to Paris. In fact, I have been there three times. So you can stop talking your trip now.
+I'm **emphasizing before now** I have been there.
+
+- He has finished his homework.
+Dad: Is it okay that Louis is playing video games?
+Mom: Yeah, he has finished his homework.
+We don't care about specifically when, but relevant the present. His past action means now he can play video games.
+
+- Kim has taken the TOEFL exam. (before the present)
+
+##### if the action started in the past and is still true now 
+
+- Jane has lived in Canada **for 22 years**.
+- I have had stort hair **my entire life**.
+- They have known each other **since kindergarden**.
+
+for 22 years & my entire life & since kindergarden, these tell us how long.
+There is a connection between the past and the present.
+The situations are still true today.
+
+Common mistakes:
+
+- :x: Jane is living in Canada for 22 years.
+- :x: Jane lives in Canada for 22 years.
+
+##### past simple & present perfect
+
+The present perfect is more **general**, we are interested in **what happened** in your past experience.
+
+The past simple is more **specific** and we need to know **specifically when**.
+
+- I have been to Paris.
+- I went Paris in 2020.
+- Kim has taken the TOEFL exam.
+- Kim took the TOEFL exam last week.
+- My parents have seen my new house.
+- My parents saw my new house on Monday.
+- He has finished his homework.
+- He finished his homework an hour ago.
+- Mary Smith (who is no longer alive) had long hair her entire life.
+
+The present perfect is very common in interviews. Because the interviewer is interested in your experience, not specifically when things happened.
+
+#### Past Perfect
+
+> subject + had + past participle
+
+**An action completed before another past point**.
+The past perfect can also show **a past to past connection**.
+
+- I had been to Paris **before I started university**.
+I added a past simple to make another past point.
+- **By the time I moved all of my furniture into my new house**, my parents had already seen it.
+Even though the past perfect comes second in the sentence, it's still clear it happened before that past simple action.
+- Jane was sad to move because she had lived in Canada for 22 years.
+- I had had long hair my entire life, and it was really diffcult for me to cut it.
+had: the past participle of have
+
+#### Future Perfect
+
+> subject + will have + past participle
+
+A completed action before a future point.
+An action that continues up to another future point.
+
+- **By the end of the summer** (the future point), you will have been to France, Germany and Spain (what will have happened before the future point).
+- **In a few days**, She **will have finished her TOEFL exam**.
+- I wanted to surprise my parents by showing them my new house. But, **by the time I show them**, they **will have** already **seen** it on Instagram.
+- **By 2025**, She **will have lived** in Canada for 22 years.
+- I  hired him on my birthday, so **on my next birthday**, he **will have been** with me for eight years.
+
+##### future simple & future perfect
+
+future perfect: completed before a future point or continued up to a future point.
+
+future simple: the future simple doesn't depend on anything in the future. it's just when something will happen.
 
 ## Some Words and Phrases
 
@@ -157,6 +289,19 @@ Dynamic verb like eat, work, run...
 | bump<br/>/bʌmp/ | to hit something with force. ||
 | combination<br/>/ˌkɑːm.bəˈneɪ.ʃən/ | the mixture you get when two or more things are combined. ||
 | stative verb | stative verb describe a state rather than an action.<br/>These can be our **feelings**, our **thoughts**, and our **emotions**.||
-||||
-||||
-||||
+| interchangeable<br/>/ˌɪn.t̬ɚˈtʃeɪn.dʒə.bəl/ | able to be exchanged with each other without making any difference or without being noticed. ||
+| intention | something that you want and plan to do. ||
+| definite<br/>/ˈdef.ən.ət/ | fixed, certain, or clean.<br/>something that is certain to happen. ||
+| interrupt<br/>/ˌɪn.t̬əˈrʌpt/ | to stop a person from speaking for a short period by something you say or do;<br/>to stop something from happening for a short period. ||
+| either<br/>/ˈiː.ðɚ/ /ˈaɪ.ðɚ/ | used in negative sentences instead of "also" or "too". ||
+| participle<br/>/ˈpɑːr.tɪ.sɪ.pəl/ | the form of a verb that usually ends in "ed" or "ing" and is used as an adjective. ||
+| emphasize<br/>/ˈem.fə.saɪz/ | to show that something is very important or worth giving attention to;<br/>to make something more obvious. ||
+| relevant<br/>/ˈrel.ə.vənt/ | connected with what is happening or being discussed;<br/>correct or suitable for a particular purpose. ||
+| colleague<br/>/ˈkɑː.liːɡ/ | one of a group of people who work together. ||
+| general<br/>/ˈdʒen.ər.əl/ | involving or relating to most or all people, things, or places, especially when these are considered as a unit. ||
+| kindergarden | refers to a form of early childhood education.<br/>kindergarden isn't a real word in English. It's just a common misspelling that makes your writing look less professional or harder to understand. ||
+| by the time | at or before the moment some event happens. ||
+| detective<br/>/dɪˈtek.tɪv/ | someone whose job is to discover information about crimes and find out who is responsible for them. ||
+| suspect<br/>/səˈspekt/ | to think or believe something to be true or probable. ||
+|  |  ||
+|  |  ||
