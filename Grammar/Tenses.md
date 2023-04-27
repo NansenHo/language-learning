@@ -3,7 +3,7 @@
 [toc]
 <br/>
 
-The Video Link:
+## The Video Link
 
 [ALL 12 ENGLISH TENSES IN 1 HOUR! + TEST by Amel's Everyday English](https://www.youtube.com/watch?v=Qi7imPEvI3U)
 
@@ -195,6 +195,9 @@ Mom: Yeah, he has finished his homework.
 We don't care about specifically when, but relevant the present. His past action means now he can play video games.
 
 - Kim has taken the TOEFL exam. (before the present)
+- What is something that you have done that you are proud of?
+- I have taught the present perfect many times.
+- I have been a teacher for 10 years.
 
 ##### if the action started in the past and is still true now 
 
@@ -202,7 +205,7 @@ We don't care about specifically when, but relevant the present. His past action
 - I have had stort hair **my entire life**.
 - They have known each other **since kindergarden**.
 
-for 22 years & my entire life & since kindergarden, these tell us how long.
+for 22 years & my entire life & since kindergarden, these tell us **how long**.
 There is a connection between the past and the present.
 The situations are still true today.
 
@@ -243,6 +246,9 @@ Even though the past perfect comes second in the sentence, it's still clear it h
 - Jane was sad to move because she had lived in Canada for 22 years.
 - I had had long hair my entire life, and it was really diffcult for me to cut it.
 had: the past participle of have
+- What is something that you had done before you turned 18?
+- When I completed my teacher training course, I had not taught present prefect at all.
+- By 2011, I had been a teacher for only one year.
 
 #### Future Perfect
 
@@ -256,12 +262,125 @@ An action that continues up to another future point.
 - I wanted to surprise my parents by showing them my new house. But, **by the time I show them**, they **will have** already **seen** it on Instagram.
 - **By 2025**, She **will have lived** in Canada for 22 years.
 - I  hired him on my birthday, so **on my next birthday**, he **will have been** with me for eight years.
+- What is something that you will have done by the time you turn 100?
+- By the time I turn 40, I will have taught the present perfect many times.
+- In nine years, I will have been a teacher for half of my life.
 
 ##### future simple & future perfect
 
 future perfect: completed before a future point or continued up to a future point.
 
 future simple: the future simple doesn't depend on anything in the future. it's just when something will happen.
+
+### All Perfect Continuous Tenses
+
+The perfect continuous tenses emphasize an action that **continues up to another point**.
+
+Usually, these actions are ongoing or they end **very close to the other point**.
+
+And the emphasis is on **duration**, how long.
+
+#### Present Perfect Continuous
+
+An action started in the past, it continues up to the present or another past point, and it **is ongoing**.
+
+- The pie has been baking for 20 minutes and the kitchen smells wonderful.
+- Has the pie been baking.
+- It has been raining non-stop.
+- The river burst its banks as it had been pouring for days.
+You can see that present perfect continuous action continued up to the past point and was probably ongoing.
+
+The action could be ongoing or the action could have **stopped just before the present time**.
+
+- Sorry, I'm sweaty. I've been running.
+
+##### perfect continuous & perfect simple (able to be used for the present, the past and the future. )
+
+How long is important in the present perfect and the present perfect continuous.
+
+[Grammar Web - What's the different between the present perfect and present perfect continuous? ](./assets/flow/GrammarWeb.xmind)
+
+##### some verbs that are dynamic and stative
+
+The two verbs **live and work** are dynamic and stative.
+Where we live or work is not change often.
+
+We can use these two verbs live and work interchangeably with **the present perfect** and **the present perfect continuous**.
+There is no differences in meaning.
+
+- Jane has been working at this school for 3 years.
+- My mom has been living in Sinan **for as long sa I can remember**.
+
+Some people maybe will choose the present perfect continuous to emphasize the duration.
+
+#### Past Perfect Continuous
+
+We use **had been** for all subjects.
+
+An action continues up to another past point.
+
+- The pie had been baking.
+- Had the pie been baking.
+
+- By the time I performed the song, I had been practicing for months.
+
+#### Future Perfect Continuous
+
+We use **will have been** for all subjects.
+
+The future perfect continuous ongoing action could have started in the past, the present or the future.
+It really depends on the situation.
+
+The future perfect continuous tense is the least common tense in English.
+It's not really heard in spoken English.
+
+- The news say that it's going to rain for nother three days.
+- By Friday, it will have been raining for eight days.
+<br/>
+
+- How are your solar panels holding up / surviving?
+- Great. Next month, they will have been providing us energy for exactly one year.
+
+At the end of July, America's economy will have been growing for 121 months. (written English)
+
+#### homework
+
+- What is something you have been doing recently? and you will probably continue to do.
+- I've been learning English.
+<br/>
+
+- What is something you had been doing before the pandemic to improve your English?
+<br/>
+
+- By the end of this year, what will you have been doing to improve your English?
+
+## Compare
+
+| Tense | Examples | Explain |
+| --- | --- | --- |
+| **Present Perfect Continuous** | The pie **has been baking** for 20 minutes and the kitchen smells wonderful. | An action starts in the past, it continues up to the present, and is ongoing. |
+| **Present Perfect** | The pie **has baked**, cooled and is now ready to cut. | When did the action happen, it doesn't matter. just before now. |
+| **Past Simple** | The pie baked beautifully **yesterday** and everyone enjoyed it. |  |
+| **Present Continuous** | The pie is baking now, don't turn off the oven. | I'm focusing on the action now. |
+
+| Tense | Examples | Explain |
+| --- | --- | --- |
+| **Past Perfect Continuous** | When I checked on the pie it had been baking for 20 minutes. | |
+| **Past Perfect** | By the time I took the pie out of the oven, its crust had turned golden brown. | |
+| **Past Simple** | The other day I was really in the mood to do some baking, so I baked a pie. | the other day means the past, maybe two, three days ago. the past simple is not dependent on another past point. |
+| **Past Continuous** | The pie was baking in the oven, when we had a power cut. | the past continuous is giving me the background, the background action that was interrupted by another. |
+
+## TEST
+
+TEST 1:
+
+![](assets/images/tenses-test1.png)
+
+TEST 2:
+
+![](assets/images/tenses-test2.png)
+
+[The answer]()
 
 ## Some Words and Phrases
 
@@ -296,6 +415,7 @@ future simple: the future simple doesn't depend on anything in the future. it's 
 | either<br/>/ˈiː.ðɚ/ /ˈaɪ.ðɚ/ | used in negative sentences instead of "also" or "too". ||
 | participle<br/>/ˈpɑːr.tɪ.sɪ.pəl/ | the form of a verb that usually ends in "ed" or "ing" and is used as an adjective. ||
 | emphasize<br/>/ˈem.fə.saɪz/ | to show that something is very important or worth giving attention to;<br/>to make something more obvious. ||
+| emphasis<br/>/ˈem.fə.sɪs/ | [noun] the particular importance or attention that is given to something. ||
 | relevant<br/>/ˈrel.ə.vənt/ | connected with what is happening or being discussed;<br/>correct or suitable for a particular purpose. ||
 | colleague<br/>/ˈkɑː.liːɡ/ | one of a group of people who work together. ||
 | general<br/>/ˈdʒen.ər.əl/ | involving or relating to most or all people, things, or places, especially when these are considered as a unit. ||
@@ -303,5 +423,13 @@ future simple: the future simple doesn't depend on anything in the future. it's 
 | by the time | at or before the moment some event happens. ||
 | detective<br/>/dɪˈtek.tɪv/ | someone whose job is to discover information about crimes and find out who is responsible for them. ||
 | suspect<br/>/səˈspekt/ | to think or believe something to be true or probable. ||
-|  |  ||
+| bake<br/>/beɪk/ | to cook inside an oven, without using added liquid or fat. ||
+| duration<br/>/duːˈreɪ.ʃən/ | the length of time that something lasts. ||
+| evidence<br/>/ˈev.ə.dəns/ | one or more reasons for believing that something is or is not true. ||
+| oven<br/>/ˈʌv.ən/ | the part of a cooker with a door, used to bake or roast food. ||
+| slightly<br/>/ˈslaɪt.li/ | a little ||
+| burst<br/>/bɝːst/ | to break open or apart suddenly, or to make something do this. ||
+| bank<br/>/bæŋk/ | sloping raised land, especially along the sides of a river. ||
+| be let go | be fired ||
+| solar panel<br/>/ˌsoʊ.lɚ ˈpæn.əl/ | a device that changes energy from the sun into electricity. ||
 |  |  ||
