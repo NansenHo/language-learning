@@ -80,7 +80,7 @@ Hold you, touch you
 Think that you're mine
 揣摩妳的心思
 Because it ain't no joy
-For an [uptown](#uptown) boy
+For an [uptown](https://weedyc.pixnet.net/blog/post/18085570) boy
 因為這對一個都會男孩來說是沒有樂趣的
 Whose teacher has told him goodbye, goodbye, goodbye
 他的老師告訴這男孩該說再見了
@@ -170,5 +170,3 @@ short form of `am not`, `is not`, `are not`, `has not`, or `have not`。
 双眼直视某人
 
 - John looked me in the eye and told me that he loved me.
-
-### uptown

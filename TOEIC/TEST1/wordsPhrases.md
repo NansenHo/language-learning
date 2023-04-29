@@ -14,7 +14,7 @@
 | truck | a large road vehicle that is used for transporting large amounts of goods. ||
 | hammer<br/>/ˈhæm.ɚ/ | a tool consisting of a piece of metal with a flat end that is fixed onto the end of a long, thin, usually wooden handle, used for hitting things. ||
 | pavement<br/>/ˈpeɪv.mənt/ | a path with a hard surface on one or both sides of a road, that people walk on. ||
-| sweep<br/>/swiːp/ | to clean especially a floor by using a brush to collect the dirt into one place from which it can be removed. ||
+| sweep<br/>/swiːp/ | to clean especially a floor by using a brush to collect the dirt into one place from which it can be removed. | sweep the steps |
 | mountain<br/>/ˈmaʊn.tən/ | a raised part of the earth's surface, much large than a hill, the top of which might be covered in snow. ||
 | statue<br/>/ˈstætʃ.uː/ | an object made from a hard material, especially stone or metal, to look like a person or animal. ||
 | situated<br/>/ˈsɪtʃ.u.eɪ.t̬ɪd/ | [adjective] in a particular position. | A statue is situated in the front of the building. |
