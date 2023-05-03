@@ -11,6 +11,7 @@
 | read-write operation |  ||
 | represent<br/>/ˌrep.rɪˈzent/ | to be a sign or symbol of something. ||
 | sequence<br/>/ˈsiː.kwəns/ | a series of related things or events, or the order in which they follow each other. ||
+| sequentially<br/>/sɪˈkwen.ʃəl.i/ | in a way that follows a particular order. ||
 | fixed-length sequence of bytes |  ||
 | allocation<br/>/ˌæl.əˈkeɪ.ʃən/ | the process of giving someone their part of a total amount of something to use in a particular way. ||
 | allocate<br/>/ˈæl.ə.keɪt/ | to give something to someone as their share of a total amount, to use in particular way. ||
@@ -35,12 +36,29 @@
 | exclamation mark |  ||
 | character encoding |  ||
 | ampersand<br/>/ˈæm.pɚ.sænd/ | the sign &, used for "and". ||
+| ampersand sign |  ||
+| hexadecimale<br/>/ˌhek.səˈdes.ə.məl/ | a type of number system, that has a base value equal to 16. ||
+| abstraction<br/>/æbˈstræk.ʃən/ | the situation in which a subject is very general and not based on real situations. ||
+| risk<br/>/rɪsk/ | the possibility of something bad happening. ||
+| synchronous<br/>/ˈsɪŋ.krə.nəs/ | happening or done at the same time or speed. ||
+| synchronous operation |  ||
+| trade off | a tradeoff is a situation that involves losing one quality or aspect of something in return for gaining another quality or aspect. ||
+| performance trade off |  ||
+| trade<br/>/treɪd/ | the activity of buying and selling, or exchanging, goods and/or services between people or countries. ||
+| stick to (doing) something | to limit yourself to doing or using one particular thing and not to change anything else. ||
+| implement<br/>/ˈɪm.plə.ment/ | to start using a plan or system. ||
+| expose<br/>/ɪkˈspoʊz/ | to remove what is covering something so that it can be seen. ||
+| without exposing private stuff |  ||
+| correspond<br/>/ˌkɔːr.əˈspɑːnd/ | to match or be similar or equal. ||
+| something corresponds to something |  ||
+| something be representation for something |  ||
+| respective<br/>/rɪˈspek.tɪv/ | relating or belonging to each of the separate people or things you have just mentioned. ||
+| respectively |  ||
+| separate<br/>/ˈsep.ɚ.ət/ | existing or happening independently or in a different physical space. ||
+| individually<br/>/ˌɪn.dəˈvɪdʒ.u.ə.li/ | separately; ||
+| desired<br/>/dɪˈzaɪrd/ | that is wanted ||
+| number / numeral system | a numeral system is a writing system for expressing numbers; that is a mathematical notation for representing numbers of a given set, using digits or other symbols in a consistent manner. ||
+| numeral<br/>/ˈnuː.mə.rəl/ | [noun] a symbol that represents a number. ||
+| distinguish<br/>/dɪˈstɪŋ.ɡwɪʃ/ | to notice or understand the difference between two things, or to make one person or thing seem different from another. ||
+| syntax<br/>/ˈsɪn.tæks/ | the grammatical arrangement of words in a sentence. ||
 |  |  ||
-|  |  ||
-|  |  ||
-|  |  ||
-|  |  ||
-|  |  ||
-|  |  ||
-
-1. It's not problematic when we perform an operation on data at browser level.
