@@ -38,6 +38,32 @@
 | be aware of something |  ||
 | instance<br/>/ˈɪn.stəns/ | a particular situation, event, or fact, especially an example of something that happens generally. ||
 | definitely<br/>/ˈdef.ən.ət.li/ | without any doubt. ||
+| comment out | to disable a section of source code by converting it into a comment. ||
+| potential<br/>/poʊˈten.ʃəl/ | possible when the necessary condition exist. ||
+| assertion<br/>/əˈsɝː.ʃən/ | a statement that you strongly believe is true. ||
+| type assertion |  ||
+| typecast<br/>/ˈtaɪp.kæst/ | to always give an actor the same type of character to play, usually because he or she is physically suited to that type of part. ||
+| cast<br/>/kæst/ | to choose actors to play particular parts in a play, film, or show. ||
+| specific | clear and exact. ||
+| besides<br/>/bɪˈsaɪdz/ | in addition to; also. ||
+| angle bracket(s)<br/>/ˈæŋ.ɡəl ˌbræk.ɪt/ | the symbol `<` or `>`, found on a computer keyboard and used, for example, around tags (=codes for marking particular types of information) ||
+| concatenate<br/>/kənˈkæt̬.ə.neɪt/ | to put things together as a connected series. ||
+| combine<br/>/kəmˈbaɪn/ | to (cause to) exist together, or join together to make a single thing or group. ||
+| coerce<br/>/koʊˈɝːs/ | to persuade someone forcefully to do something that they are unwilling to do. ||
+| handy<br/>/ˈhæn.di/ | useful or convenient. ||
+| counterpart<br/>/ˈkaʊn.t̬ɚ.pɑːrt/ | a person or thing that has the same purpose as another one in a different place or organization. ||
+| overrule<br/>/ˌoʊ.vɚˈruːl/ | (of a person who has official authority)to decide against a decision that has already been made. ||
+| occasionally<br/>/əˈkeɪ.ʒən.əl.i/ /əˈkeɪʒ.nəl.i/ | sometimes but not often. ||
+| acknowledge<br/>/əkˈnɑː.lɪdʒ/ | to accept, admit, or recognize something, or the truth or existence of something. ||
+| convince<br/>/kənˈvɪns/ | to persuade someone or make someone certain. ||
+| exclamation<br/>/ˌek.skləˈmeɪ.ʃən/ | something you say or shout suddenly because of surprise, fear, pleasure, etc. ||
+| combination<br/>/ˌkɑːm.bəˈneɪ.ʃən/ | the mixture you get when two or more things are combined. ||
+| paragraph(s)<br/>/ˈper.ə.ɡræf/ | a short part of a text, consisting of at least one sentence and beginning on a new line. It usually deals with a single event, description, idea, etc. ||
+| slash<br/>/slæʃ/ | the symbol `/` used in writing to separate letters, numbers, or words;<br/>used to mean "or", or to show that something has two uses. ||
+| variation<br/>/ˌver.iˈeɪ.ʃən/ | a change in amount or level. ||
+|  |  ||
+|  |  ||
+|  |  ||
 |  |  ||
 |  |  ||
 |  |  ||
