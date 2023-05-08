@@ -19,10 +19,23 @@
 | deletion<br/>/dɪˈliː.ʃən/ | the process of removing something, or what is removed. ||
 | calculation<br/>/ˌkæl.kjəˈleɪ.ʃən/ | the process of using information you already have and adding, taking away, multiplying, or dividing numbers to judge the number or amount of something. ||
 | belt up |  ||
-|  |  ||
-|  |  ||
-|  |  ||
-|  |  ||
-|  |  ||
-|  |  ||
-|  |  ||
+| separate<br/>/ˈsep.ɚ.ət/ | existing or happening independently or in a different physical space. ||
+| fraction<br/>/ˈfræk.ʃən/ | a number that results from dividing one whole number by another;<br/>a small part of something, or a small amount. ||
+| percentage<br/>/pɚˈsen.t̬ɪdʒ/ | an amount of something, often expressed as a number out of 100. ||
+| slash<br/>/slæʃ/ | the symbol `/` used in writing to separate letters, numbers, or words. ||
+| dash<br/> | the symbol `-` used to separate parts of a sentence. ||
+| square<br/>/skwer/ | a flat shape with four sides of equal length and four angles of 90°. ||
+| bracket(s)<br/>/ˈbræk.ɪt/ | either of two symbols put around a word, phrase, or sentence, in a piece of writing to show that what is between them should be considered as separated from the main part. ||
+| square brackets<br/> |  ||
+| avatar<br/>/ˈæv.ə.tɑːr/ | an image that represents you in online games, chat rooms, etc. and that you can move around the screen. ||
+| neutral<br/>/ˈnuː.trəl/ | not saying or doing anything that would encourage or help any of the groups involved in an argument or war. ||
+| gradient<br/>/ˈɡreɪ.di.ənt/ | how steep a slope is. ||
+| <br/> |  ||
+| <br/> |  ||
+| <br/> |  ||
+| <br/> |  ||
+| <br/> |  ||
+| <br/> |  ||
+| <br/> |  ||
+| <br/> |  ||
+| <br/> |  ||
