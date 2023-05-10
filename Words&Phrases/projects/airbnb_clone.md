@@ -30,10 +30,10 @@
 | avatar<br/>/ˈæv.ə.tɑːr/ | an image that represents you in online games, chat rooms, etc. and that you can move around the screen. ||
 | neutral<br/>/ˈnuː.trəl/ | not saying or doing anything that would encourage or help any of the groups involved in an argument or war. ||
 | gradient<br/>/ˈɡreɪ.di.ənt/ | how steep a slope is. ||
-| <br/> |  ||
-| <br/> |  ||
-| <br/> |  ||
-| <br/> |  ||
+| register<br/>/ˈredʒ.ə.stɚ/ | to put information, especially your name, into an official list or record. ||
+| reproduce<br/>/ˌriː.prəˈduːs/ | to show or do something again. ||
+| bug reproduction<br/> |  ||
+| experimental<br/>/ɪkˌsper.əˈmen.t̬əl/ | relating to tests, especially scientific oens. ||
 | <br/> |  ||
 | <br/> |  ||
 | <br/> |  ||
