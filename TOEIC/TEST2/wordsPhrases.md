@@ -41,6 +41,32 @@
 | shed<br/>/ʃed/ | a small building, usually made of wood, used for storing things. ||
 | shingle<br/>/ˈʃɪŋ.ɡəl/ | a thin, flat tile usually made of wood, that is fixed in rows to make a roof or wall covering. ||
 | accountant<br/>/əˈkaʊn.t̬ənt/ | someone who keeps or examines the records of money received, paid, and owed by a company or person. ||
+| negotiation<br/>/nəˌɡoʊ.ʃiˈeɪ.ʃən/ | the process of discussing something with someone in order to reach an agreement with them, or the discussions themselves. ||
+| estate<br/>/ɪˈsteɪt/ | a large area of land in the country that is owned by a family or an organization and if often used for growing crops or raising animals. ||
+| real estate egency<br/> |  ||
+| negotiate real estate egency<br/> |  ||
+| recommend someone do something<br/> |  ||
+| cooperate<br/>/koʊˈɑː.pə.reɪt/ | to act or work together for a particular purpose, or to be helpful by doing what someone asks you to do. ||
+| cooperate with someone in (doing) something<br/> |  ||
+| realty<br/>/ˈriː.əl.ti/ | property in the form of land or buildings | realty egency; realty company; |
+| supposed<br/>/səˈpoʊzd/ | to have to; to have a duty or a responsibility to. ||
+| be supposed to do something<br/> |  ||
+| suppose<br/>/səˈpoʊz/ | to think that something is likely to be true;<br/>used to show that you think something is true, although you wish that it were not. ||
+| fill<br/>/fɪl/ | to put a substance into a hole in a tooth to repair it;<br/>to give a job or position to someone. ||
+| <br/> |  ||
+| <br/> |  ||
+| <br/> |  ||
+| <br/> |  ||
+| <br/> |  ||
+| <br/> |  ||
+| <br/> |  ||
+| <br/> |  ||
+| <br/> |  ||
+| <br/> |  ||
+| <br/> |  ||
+| <br/> |  ||
+| <br/> |  ||
+| <br/> |  ||
 | <br/> |  ||
 | <br/> |  ||
 | <br/> |  ||
