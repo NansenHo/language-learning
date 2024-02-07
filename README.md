@@ -1,4 +1,1 @@
-
-| English | Meaning | Japanese | Chinese |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|  <br/>  |  |  |  |  |  |  |  |
+# Language Learning

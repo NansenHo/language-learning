@@ -1,7 +1,4 @@
-# Tenses {ignore=true}
-
-[toc]
-<br/>
+# Tenses
 
 ## The Video Link
 
@@ -13,6 +10,7 @@ There are three periods.
 
 Each Tense has its own unique grammatical structure.
 
+<!-- prettier-ignore -->
 | PAST | PRESENT | FUTURE |
 | --- | --- | --- |
 | past simple<br/>`subject` + `past simple verb` | present simple<br/>`subject` + `base verb` | future simple<br/>`subject` + `will` + `base verb` |
@@ -24,7 +22,7 @@ Each Tense has its own unique grammatical structure.
 
 ### All Simple Tenses
 
-We use simple tenses for 
+We use simple tenses for
 
 - habits
 - repeated actions
@@ -95,12 +93,12 @@ We can't use future simple for a future plan. The present continuous is the bett
 
 ### All Continuous Tenses
 
-Continuous tenses express a **temporary** action or situation. 
+Continuous tenses express a **temporary** action or situation.
 They are not permanent or repeated actions like the simple tenses.
 
 The continuous tenses can be the main action, but many times with the **past continuous** and **future continuous**, they express **background action**.
 
-These background actions are either **interrupted by a main action**, or the main action happens at **the same time**. 
+These background actions are either **interrupted by a main action**, or the main action happens at **the same time**.
 
 **[stative verb](./Stative-verb-Dynamic-verb.md)** is not used in continuous tenses.
 
@@ -126,7 +124,7 @@ We can't use future simple for a future plan. The present continuous is the bett
 Native speakers use both of these forms interchangeable all the time, and they are both correct.
 
 - I'm going to meet Jake and Ellen for dinner tonight.
-- I'm meeting Jake and Ellen for dinner tonight. 
+- I'm meeting Jake and Ellen for dinner tonight.
 
 But, let's get super specific.
 
@@ -154,6 +152,7 @@ we need a specific time.
 
 #### simple tenses: premanent & continuous tenses: temporary
 
+<!-- prettier-ignore -->
 | simple tenses: premanent | continuous tenses: temporary |
 | --- | --- |
 | I work in Tucson. | I'm working in Tucson. |
@@ -174,7 +173,7 @@ The continuous tenses express a temporary action during a specific period.
 Perfect tenses emphasize an action before something else.
 
 1. **Past perfect** before **another past point**;
-There is a connection between the past action and the present.
+   There is a connection between the past action and the present.
 2. **Present perfect** before **now**;
 3. **Future perfect** before **another future point**;
 
@@ -185,21 +184,21 @@ There is a connection between the past action and the present.
 - I have (not) eaten at Rosario's
 - Have you eaten at Rosario's
 - I have been to Paris. (before the present)
-Maybe I'm having a coffee break at work and one of my colleagues keeps talking and talking about her trip to Paris. And she says to me: Nansen, you have to go to Paris, you need to go to Paris.
-I can say I have been there, I have been to Paris. In fact, I have been there three times. So you can stop talking your trip now.
-I'm **emphasizing before now** I have been there.
+  Maybe I'm having a coffee break at work and one of my colleagues keeps talking and talking about her trip to Paris. And she says to me: Nansen, you have to go to Paris, you need to go to Paris.
+  I can say I have been there, I have been to Paris. In fact, I have been there three times. So you can stop talking your trip now.
+  I'm **emphasizing before now** I have been there.
 
 - He has finished his homework.
-Dad: Is it okay that Louis is playing video games?
-Mom: Yeah, he has finished his homework.
-We don't care about specifically when, but relevant the present. His past action means now he can play video games.
+  Dad: Is it okay that Louis is playing video games?
+  Mom: Yeah, he has finished his homework.
+  We don't care about specifically when, but relevant the present. His past action means now he can play video games.
 
 - Kim has taken the TOEFL exam. (before the present)
 - What is something that you have done that you are proud of?
 - I have taught the present perfect many times.
 - I have been a teacher for 10 years.
 
-##### if the action started in the past and is still true now 
+##### if the action started in the past and is still true now
 
 - Jane has lived in Canada **for 22 years**.
 - I have had stort hair **my entire life**.
@@ -240,12 +239,12 @@ The present perfect is very common in interviews. Because the interviewer is int
 The past perfect can also show **a past to past connection**.
 
 - I had been to Paris **before I started university**.
-I added a past simple to make another past point.
+  I added a past simple to make another past point.
 - **By the time I moved all of my furniture into my new house**, my parents had already seen it.
-Even though the past perfect comes second in the sentence, it's still clear it happened before that past simple action.
+  Even though the past perfect comes second in the sentence, it's still clear it happened before that past simple action.
 - Jane was sad to move because she had lived in Canada for 22 years.
 - I had had long hair my entire life, and it was really diffcult for me to cut it.
-had: the past participle of have
+  had: the past participle of have
 - What is something that you had done before you turned 18?
 - When I completed my teacher training course, I had not taught present prefect at all.
 - By 2011, I had been a teacher for only one year.
@@ -261,7 +260,7 @@ An action that continues up to another future point.
 - **In a few days**, She **will have finished her TOEFL exam**.
 - I wanted to surprise my parents by showing them my new house. But, **by the time I show them**, they **will have** already **seen** it on Instagram.
 - **By 2025**, She **will have lived** in Canada for 22 years.
-- I  hired him on my birthday, so **on my next birthday**, he **will have been** with me for eight years.
+- I hired him on my birthday, so **on my next birthday**, he **will have been** with me for eight years.
 - What is something that you will have done by the time you turn 100?
 - By the time I turn 40, I will have taught the present perfect many times.
 - In nine years, I will have been a teacher for half of my life.
@@ -288,7 +287,7 @@ An action started in the past, it continues up to the present or another past po
 - Has the pie been baking.
 - It has been raining non-stop.
 - The river burst its banks as it had been pouring for days.
-You can see that present perfect continuous action continued up to the past point and was probably ongoing.
+  You can see that present perfect continuous action continued up to the past point and was probably ongoing.
 
 The action could be ongoing or the action could have **stopped just before the present time**.
 
@@ -298,7 +297,7 @@ The action could be ongoing or the action could have **stopped just before the p
 
 How long is important in the present perfect and the present perfect continuous.
 
-[Grammar Web - What's the different between the present perfect and present perfect continuous? ](./assets/flowChart/GrammarWeb.xmind)
+[Grammar Web - What's the different between the present perfect and present perfect continuous?](./assets/flowChart/GrammarWeb.xmind)
 
 ##### some verbs that are dynamic and stative
 
@@ -336,7 +335,7 @@ It's not really heard in spoken English.
 
 - The news say that it's going to rain for nother three days.
 - By Friday, it will have been raining for eight days.
-<br/>
+  <br/>
 
 - How are your solar panels holding up / surviving?
 - Great. Next month, they will have been providing us energy for exactly one year.
@@ -347,15 +346,16 @@ At the end of July, America's economy will have been growing for 121 months. (wr
 
 - What is something you have been doing recently? and you will probably continue to do.
 - I've been learning English.
-<br/>
+  <br/>
 
 - What is something you had been doing before the pandemic to improve your English?
-<br/>
+  <br/>
 
 - By the end of this year, what will you have been doing to improve your English?
 
 ## Compare
 
+<!-- prettier-ignore -->
 | Tense | Examples | Explain |
 | --- | --- | --- |
 | **Present Perfect Continuous** | The pie **has been baking** for 20 minutes and the kitchen smells wonderful. | An action starts in the past, it continues up to the present, and is ongoing. |
@@ -363,6 +363,7 @@ At the end of July, America's economy will have been growing for 121 months. (wr
 | **Past Simple** | The pie baked beautifully **yesterday** and everyone enjoyed it. |  |
 | **Present Continuous** | The pie is baking now, don't turn off the oven. | I'm focusing on the action now. |
 
+<!-- prettier-ignore -->
 | Tense | Examples | Explain |
 | --- | --- | --- |
 | **Past Perfect Continuous** | When I checked on the pie it had been baking for 20 minutes. | |
@@ -380,10 +381,9 @@ TEST 2:
 
 ![](assets/images/tenses_test2.png)
 
-[The answer]()
-
 ## Some Words and Phrases
 
+<!-- prettier-ignore -->
 | Words and Phrases | Meanings ||
 | ---- | --- | --- |
 | build a really strong foundation |||
@@ -432,14 +432,6 @@ TEST 2:
 | bank<br/>/bæŋk/ | sloping raised land, especially along the sides of a river. ||
 | be let go | be fired ||
 | solar panel<br/>/ˌsoʊ.lɚ ˈpæn.əl/ | a device that changes energy from the sun into electricity. ||
-|  |  ||
-|  |  ||
-|  |  ||
-|  |  ||
-|  |  ||
-|  |  ||
-|  |  ||
-|  |  ||
 
 ## the answer
 

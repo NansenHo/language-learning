@@ -1,28 +1,33 @@
-# in & into & in to & on & onto & on to 
+# in & into & in to & on & onto & on to
 
 ## in/on, into/onto
 
 1. **The location of action/object**: in / on
-don't need an object. object can be optional.
+   don't need an object. object can be optional.
 2. **The change of location**: into / onto
-always need an object. 
+   always need an object.
+
+---
 
 - The cat is **in** the box.
 - He backflipped in the water.
 - come in.
-![](assets/images/cat_in.png)
+  ![](assets/images/cat_in.png)
+
 - The cat is **on** the box.
 - I stepped on a jellyfish.
 - We walked on the boat.
-![](assets/images/cat_on.png)
+  ![](assets/images/cat_on.png)
+
 - The cat walked **into** the box.
 - I moved the TV into the bedroom.
 - He backflipped into the water.
-![](assets/images/cat_into.png)
+  ![](assets/images/cat_into.png)
+
 - The cat jumped **onto** the box.
 - She carefully placed the flowers onto the coffin.
 - We walked onto the boat.
-![](assets/images/cat_onto.png)
+  ![](assets/images/cat_onto.png)
 
 > `To` really introduces that destination.
 
@@ -57,7 +62,7 @@ We can talk about a **transformation** with `into`.
 - A caterpillar turns into a butterfly.
 - I had to translate all of these documents into English.
 
-But there is a exception: 
+But there is a exception:
 
 We can also use `into` to speak about an **impact**.
 
@@ -89,7 +94,7 @@ With these verbs you can use in/into or on/onto interchangeably.
 - Put the ice cream into the freezer.
 - He threw the pizza on the roof.
 - He threw the pizza onto the roof.
-<br/>
+  <br/>
 
 - Look in my eyes and tell me the truth.
 - Look into my eyes and tell me the truth.
@@ -123,11 +128,12 @@ This is all about written English.
 
 Some phrasal verbs already have `into` and `onto` as their preposition.
 
-- [Category:English phrasal verbs with particle (into)](https://en.wiktionary.org/wiki/Category:English_phrasal_verbs_with_particle_(into))
-- [Category:English phrasal verbs with particle (onto)](https://en.wiktionary.org/wiki/Category:English_phrasal_verbs_with_particle_(onto))
+- [Category:English phrasal verbs with particle (into)](<https://en.wiktionary.org/wiki/Category:English_phrasal_verbs_with_particle_(into)>)
+- [Category:English phrasal verbs with particle (onto)](<https://en.wiktionary.org/wiki/Category:English_phrasal_verbs_with_particle_(onto)>)
 
 ## words and phrases
 
+<!-- prettier-ignore -->
 | words and phrases | meanings ||
 | --- | --- | --- |
 | destination<br/>/ˌdes.təˈneɪ.ʃən/ | the place where someone is going or where something is being sent or taken. ||
