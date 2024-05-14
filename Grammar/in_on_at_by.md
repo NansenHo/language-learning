@@ -169,11 +169,48 @@ These two examples mean almost the same thing.
 
 "on the south side" or "on the left side", it always uses the preposition "ON".
 
-### the flat surface & the region of area
+### similar meanings
 
 - Nice is on the south coast of France. (尼斯位于法国南部海岸)
 - Nice is in the south of France. (尼斯位于法国南部)
 
 When we're referring to the flat surface, and the region of area.
 
+- I'll see you at Melanie's house.
+- I'll meet you in the kitchen. (enclosed room/place)
+
+There are times when you can use two different prepositions and the meaning is actually very similar. Especially between "at" and "on".
+
+- I'll meet you at the corner of Beach Street and Park Road.
+- I saw it in the corner of the room.
+
+- Write it
+
+  - on the paper.
+  - in your notebook.
+  - at the top of the page.
+  - in the corner (of the page).
+
+- I'm
+
+  - in the car.
+  - on the bus/train.
+
+- Sarah is still in school. (inside school)
+- Sarah is still at school. (inside school or outside)
+
+- I think they are at the beach.
+- I think they are on the beach.
+
 ## BY
+
+"BY" is used to mean **next to something** or **beside** or **near**.
+
+e.g.
+
+- I'm waiting by the car.
+- Put your bag by the door and sit down.
+
+- They live near the school.
+- They live next to the school.
+- They live by the school.

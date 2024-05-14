@@ -1,6 +1,4 @@
-# One More Try {ignore=true}
-
-[toc]
+# One More Try
 
 ## Words and Phrases in Lyrics
 
@@ -122,7 +120,7 @@ Want no more of something.
 
 This phrase uses enough in the sense of “an adequate amount,” which is intended ironically to mean “a more than sufficient amount.”
 
-enough /əˈnʌf/ 
+enough /əˈnʌf/
 
 - I've had enough of your excuses.
 - Enough of this! I don't want to discuss it any more.
@@ -143,7 +141,7 @@ in the street = on the street = on the streets
 一些固定搭配必须用 on：
 
 - live on the street
-有特例：She had lived in the same street in London all her life. (Longman Corpus)
+  有特例：She had lived in the same street in London all her life. (Longman Corpus)
 - word/opinion on the street
 - 在街上进行非法行为，必须用 on
 
@@ -163,7 +161,6 @@ to try to notice someone or something.
 /eɪnt/
 
 short form of `am not`, `is not`, `are not`, `has not`, or `have not`。
-
 
 ### look in someone's eyes / look somebody in the eye
 

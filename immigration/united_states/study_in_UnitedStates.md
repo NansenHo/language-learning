@@ -1,6 +1,4 @@
-# Study in United States {ignore=true}
-
-[toc]
+# Study in United States
 
 ## Links
 

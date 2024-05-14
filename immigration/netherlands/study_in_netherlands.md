@@ -1,6 +1,4 @@
-# Study in Netherlands {ignore=true}
-
-[toc]
+# Study in Netherlands
 
 ## Links
 
@@ -41,7 +39,7 @@
   - 合租：300-600 歐
   - 整租：700+ 歐
     23 歲以上，政府會給補貼。710 的房租大概能補貼 350
-- 飲  食
+- 飲 食
   - 自己做飯的話，200 - 400 歐
 - 額外支出
   - 交通費

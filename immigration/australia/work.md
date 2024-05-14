@@ -1,6 +1,4 @@
-# Work {ignore=true}
-
-[toc]
+# Work
 
 ## Links
 
