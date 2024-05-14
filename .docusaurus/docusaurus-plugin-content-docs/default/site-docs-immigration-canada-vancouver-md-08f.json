@@ -1,0 +1,24 @@
+{
+  "id": "immigration/canada/Vancouver",
+  "title": "City of Vancouver",
+  "description": "/vænˈkuːvər/",
+  "source": "@site/docs/immigration/canada/Vancouver.md",
+  "sourceDirName": "immigration/canada",
+  "slug": "/immigration/canada/Vancouver",
+  "permalink": "/docs/immigration/canada/Vancouver",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/immigration/canada/Vancouver.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Calgary",
+    "permalink": "/docs/immigration/canada/Calgary"
+  },
+  "next": {
+    "title": "University",
+    "permalink": "/docs/immigration/canada/university"
+  }
+}

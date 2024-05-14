@@ -1,0 +1,24 @@
+{
+  "id": "toeic/test1/part1",
+  "title": "Test 1 - Part 1",
+  "description": "a. They are rowing the boat together.",
+  "source": "@site/docs/toeic/test1/part1.md",
+  "sourceDirName": "toeic/test1",
+  "slug": "/toeic/test1/part1",
+  "permalink": "/docs/toeic/test1/part1",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/toeic/test1/part1.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "“真下头”",
+    "permalink": "/docs/talking_english/真下头"
+  },
+  "next": {
+    "title": "Test1 - Part2",
+    "permalink": "/docs/toeic/test1/part2"
+  }
+}

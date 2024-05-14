@@ -1,0 +1,20 @@
+{
+  "id": "differences/almost_nearly",
+  "title": "Almost & Nearly",
+  "description": "How They Are Defined:",
+  "source": "@site/docs/differences/almost_nearly.md",
+  "sourceDirName": "differences",
+  "slug": "/differences/almost_nearly",
+  "permalink": "/docs/differences/almost_nearly",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/differences/almost_nearly.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Eat Out & Eat Outside",
+    "permalink": "/docs/differences/eat-out_eat-outside"
+  }
+}

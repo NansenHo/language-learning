@@ -1,0 +1,24 @@
+{
+  "id": "toeic/test1/part2",
+  "title": "Test1 - Part2",
+  "description": "7. Why did you get back from your trip so early?",
+  "source": "@site/docs/toeic/test1/part2.md",
+  "sourceDirName": "toeic/test1",
+  "slug": "/toeic/test1/part2",
+  "permalink": "/docs/toeic/test1/part2",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/toeic/test1/part2.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Test 1 - Part 1",
+    "permalink": "/docs/toeic/test1/part1"
+  },
+  "next": {
+    "title": "Monica Gets a New Roommate",
+    "permalink": "/docs/words_phrases/friends/s01/E01"
+  }
+}

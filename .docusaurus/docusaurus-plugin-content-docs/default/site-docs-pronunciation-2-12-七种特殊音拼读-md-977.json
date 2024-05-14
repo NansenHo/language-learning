@@ -1,0 +1,24 @@
+{
+  "id": "pronunciation/2_12_七种特殊音拼读",
+  "title": "七种特殊音拼读",
+  "description": "清音浊化",
+  "source": "@site/docs/pronunciation/2_12_七种特殊音拼读.md",
+  "sourceDirName": "pronunciation",
+  "slug": "/pronunciation/2_12_七种特殊音拼读",
+  "permalink": "/docs/pronunciation/2_12_七种特殊音拼读",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/pronunciation/2_12_七种特殊音拼读.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "单词重音的六种读法",
+    "permalink": "/docs/pronunciation/2_11_单词重音的六种读法"
+  },
+  "next": {
+    "title": "攻克长短元音（单元音）",
+    "permalink": "/docs/pronunciation/2_7_攻克长短元音（单元音）"
+  }
+}

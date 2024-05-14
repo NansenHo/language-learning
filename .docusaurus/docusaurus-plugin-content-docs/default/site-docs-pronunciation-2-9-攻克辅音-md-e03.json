@@ -1,0 +1,24 @@
+{
+  "id": "pronunciation/2_9_攻克辅音",
+  "title": "攻克辅音",
+  "description": "拼音字母是带尾音的，而英语字母是不带的。",
+  "source": "@site/docs/pronunciation/2_9_攻克辅音.md",
+  "sourceDirName": "pronunciation",
+  "slug": "/pronunciation/2_9_攻克辅音",
+  "permalink": "/docs/pronunciation/2_9_攻克辅音",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/pronunciation/2_9_攻克辅音.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "攻克双元音",
+    "permalink": "/docs/pronunciation/2_8_攻克双元音"
+  },
+  "next": {
+    "title": "Past Simple",
+    "permalink": "/docs/pronunciation/past_simple"
+  }
+}

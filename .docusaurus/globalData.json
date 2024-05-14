@@ -1,0 +1,228 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "differences/almost_nearly",
+          "docs": [
+            {
+              "id": "differences/almost_nearly",
+              "path": "/docs/differences/almost_nearly",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "differences/eat-out_eat-outside",
+              "path": "/docs/differences/eat-out_eat-outside",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "differences/whore_bitch",
+              "path": "/docs/differences/whore_bitch",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "grammar/in_into_on_onto",
+              "path": "/docs/grammar/in_into_on_onto",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "grammar/in_on_at_by",
+              "path": "/docs/grammar/in_on_at_by",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "grammar/stative_verb_dynamic_verb",
+              "path": "/docs/grammar/stative_verb_dynamic_verb",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "grammar/tenses",
+              "path": "/docs/grammar/tenses",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "immigration/australia/work",
+              "path": "/docs/immigration/australia/work",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "immigration/canada/Calgary",
+              "path": "/docs/immigration/canada/Calgary",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "immigration/canada/university",
+              "path": "/docs/immigration/canada/university",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "immigration/canada/Vancouver",
+              "path": "/docs/immigration/canada/Vancouver",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "immigration/canada/雇主担保移民",
+              "path": "/docs/immigration/canada/雇主担保移民",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "immigration/china/中国政策的两个特点",
+              "path": "/docs/immigration/china/中国政策的两个特点",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "immigration/counties",
+              "path": "/docs/immigration/counties",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "immigration/netherlands/study_in_netherlands",
+              "path": "/docs/immigration/netherlands/study_in_netherlands",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "immigration/united_states/study_in_UnitedStates",
+              "path": "/docs/immigration/united_states/study_in_UnitedStates",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "life/eat",
+              "path": "/docs/life/eat",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "life/wrinkle_care",
+              "path": "/docs/life/wrinkle_care",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "music/george_michael/one_more_try",
+              "path": "/docs/music/george_michael/one_more_try",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "pronunciation/1_1_字母",
+              "path": "/docs/pronunciation/1_1_字母",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "pronunciation/1_2_元音音标的标准读音",
+              "path": "/docs/pronunciation/1_2_元音音标的标准读音",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "pronunciation/1_3_双元音音标",
+              "path": "/docs/pronunciation/1_3_双元音音标",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "pronunciation/1_4_辅音的标准读音",
+              "path": "/docs/pronunciation/1_4_辅音的标准读音",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "pronunciation/1_5_元音音标纠音",
+              "path": "/docs/pronunciation/1_5_元音音标纠音",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "pronunciation/1_6_辅音音标纠音",
+              "path": "/docs/pronunciation/1_6_辅音音标纠音",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "pronunciation/2_10_三步成音拼读法",
+              "path": "/docs/pronunciation/2_10_三步成音拼读法",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "pronunciation/2_11_单词重音的六种读法",
+              "path": "/docs/pronunciation/2_11_单词重音的六种读法",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "pronunciation/2_12_七种特殊音拼读",
+              "path": "/docs/pronunciation/2_12_七种特殊音拼读",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "pronunciation/2_7_攻克长短元音（单元音）",
+              "path": "/docs/pronunciation/2_7_攻克长短元音（单元音）",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "pronunciation/2_8_攻克双元音",
+              "path": "/docs/pronunciation/2_8_攻克双元音",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "pronunciation/2_9_攻克辅音",
+              "path": "/docs/pronunciation/2_9_攻克辅音",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "pronunciation/past_simple",
+              "path": "/docs/pronunciation/past_simple",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "pronunciation/sentences",
+              "path": "/docs/pronunciation/sentences",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "pronunciation/words",
+              "path": "/docs/pronunciation/words",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "talking_english/talk",
+              "path": "/docs/talking_english/talk",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "talking_english/真下头",
+              "path": "/docs/talking_english/真下头",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "toeic/test1/part1",
+              "path": "/docs/toeic/test1/part1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "toeic/test1/part2",
+              "path": "/docs/toeic/test1/part2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "words_phrases/friends/s01/E01",
+              "path": "/docs/words_phrases/friends/s01/E01",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "words_phrases/life/haircut",
+              "path": "/docs/words_phrases/life/haircut",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/differences/almost_nearly",
+                "label": "differences/almost_nearly"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

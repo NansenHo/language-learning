@@ -1,0 +1,24 @@
+{
+  "id": "pronunciation/sentences",
+  "title": "Sentences",
+  "description": "good luck to you",
+  "source": "@site/docs/pronunciation/sentences.md",
+  "sourceDirName": "pronunciation",
+  "slug": "/pronunciation/sentences",
+  "permalink": "/docs/pronunciation/sentences",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/pronunciation/sentences.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Past Simple",
+    "permalink": "/docs/pronunciation/past_simple"
+  },
+  "next": {
+    "title": "Words",
+    "permalink": "/docs/pronunciation/words"
+  }
+}

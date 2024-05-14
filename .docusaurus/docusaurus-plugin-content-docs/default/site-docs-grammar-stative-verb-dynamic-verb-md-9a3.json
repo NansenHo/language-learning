@@ -1,0 +1,24 @@
+{
+  "id": "grammar/stative_verb_dynamic_verb",
+  "title": "Stative verb and Dynamic verb",
+  "description": "Definition",
+  "source": "@site/docs/grammar/stative_verb_dynamic_verb.md",
+  "sourceDirName": "grammar",
+  "slug": "/grammar/stative_verb_dynamic_verb",
+  "permalink": "/docs/grammar/stative_verb_dynamic_verb",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/grammar/stative_verb_dynamic_verb.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Preposition - IN,ON,AT,BY",
+    "permalink": "/docs/grammar/in_on_at_by"
+  },
+  "next": {
+    "title": "Tenses",
+    "permalink": "/docs/grammar/tenses"
+  }
+}

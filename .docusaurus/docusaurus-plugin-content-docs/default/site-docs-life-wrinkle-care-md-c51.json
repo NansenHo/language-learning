@@ -1,0 +1,24 @@
+{
+  "id": "life/wrinkle_care",
+  "title": "WRINKLE CARE",
+  "description": "KOSE グレイス（优雅） ワン リンクルケア（皱纹护理） ホワイト（white） モイスト（湿り気（しめりけ）があること） オールインワン ジェル（凝胶、啫喱）クリーム しわ改善 × シミ予防 100g おまけ（お負け）つき（有优惠或者送赠品）",
+  "source": "@site/docs/life/wrinkle_care.md",
+  "sourceDirName": "life",
+  "slug": "/life/wrinkle_care",
+  "permalink": "/docs/life/wrinkle_care",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/life/wrinkle_care.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "EAT",
+    "permalink": "/docs/life/eat"
+  },
+  "next": {
+    "title": "One More Try",
+    "permalink": "/docs/music/george_michael/one_more_try"
+  }
+}

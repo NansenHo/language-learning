@@ -1,0 +1,24 @@
+{
+  "id": "immigration/canada/Calgary",
+  "title": "Calgary",
+  "description": "/ˈkælɡəri/",
+  "source": "@site/docs/immigration/canada/Calgary.md",
+  "sourceDirName": "immigration/canada",
+  "slug": "/immigration/canada/Calgary",
+  "permalink": "/docs/immigration/canada/Calgary",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/immigration/canada/Calgary.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Work",
+    "permalink": "/docs/immigration/australia/work"
+  },
+  "next": {
+    "title": "City of Vancouver",
+    "permalink": "/docs/immigration/canada/Vancouver"
+  }
+}

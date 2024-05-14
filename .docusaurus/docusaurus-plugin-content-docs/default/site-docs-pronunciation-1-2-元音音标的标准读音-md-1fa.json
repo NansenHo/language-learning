@@ -1,0 +1,24 @@
+{
+  "id": "pronunciation/1_2_元音音标的标准读音",
+  "title": "单元音音标的标准读音",
+  "description": "一共有 20 个元音，28 个辅音。",
+  "source": "@site/docs/pronunciation/1_2_元音音标的标准读音.md",
+  "sourceDirName": "pronunciation",
+  "slug": "/pronunciation/1_2_元音音标的标准读音",
+  "permalink": "/docs/pronunciation/1_2_元音音标的标准读音",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/pronunciation/1_2_元音音标的标准读音.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Alphabet",
+    "permalink": "/docs/pronunciation/1_1_字母"
+  },
+  "next": {
+    "title": "双元音音标",
+    "permalink": "/docs/pronunciation/1_3_双元音音标"
+  }
+}

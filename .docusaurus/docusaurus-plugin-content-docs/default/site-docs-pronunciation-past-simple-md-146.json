@@ -1,0 +1,24 @@
+{
+  "id": "pronunciation/past_simple",
+  "title": "Past Simple",
+  "description": "过去时需要把那个 /e/ 的音读出来。",
+  "source": "@site/docs/pronunciation/past_simple.md",
+  "sourceDirName": "pronunciation",
+  "slug": "/pronunciation/past_simple",
+  "permalink": "/docs/pronunciation/past_simple",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/pronunciation/past_simple.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "攻克辅音",
+    "permalink": "/docs/pronunciation/2_9_攻克辅音"
+  },
+  "next": {
+    "title": "Sentences",
+    "permalink": "/docs/pronunciation/sentences"
+  }
+}

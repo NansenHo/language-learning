@@ -1,0 +1,24 @@
+{
+  "id": "pronunciation/1_4_辅音的标准读音",
+  "title": "辅音的标准读音",
+  "description": "辅音都是气流收到阻碍，而发出的音。",
+  "source": "@site/docs/pronunciation/1_4_辅音的标准读音.md",
+  "sourceDirName": "pronunciation",
+  "slug": "/pronunciation/1_4_辅音的标准读音",
+  "permalink": "/docs/pronunciation/1_4_辅音的标准读音",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/pronunciation/1_4_辅音的标准读音.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "双元音音标",
+    "permalink": "/docs/pronunciation/1_3_双元音音标"
+  },
+  "next": {
+    "title": "元音音标纠音",
+    "permalink": "/docs/pronunciation/1_5_元音音标纠音"
+  }
+}

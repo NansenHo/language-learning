@@ -1,0 +1,24 @@
+{
+  "id": "life/eat",
+  "title": "EAT",
+  "description": "| English | Meaning | Japanese | Chinese |  |  |  |  |",
+  "source": "@site/docs/life/eat.md",
+  "sourceDirName": "life",
+  "slug": "/life/eat",
+  "permalink": "/docs/life/eat",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/life/eat.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Study in United States",
+    "permalink": "/docs/immigration/united_states/study_in_UnitedStates"
+  },
+  "next": {
+    "title": "WRINKLE CARE",
+    "permalink": "/docs/life/wrinkle_care"
+  }
+}

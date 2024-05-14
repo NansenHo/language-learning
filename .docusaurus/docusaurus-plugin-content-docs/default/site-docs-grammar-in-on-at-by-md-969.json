@@ -1,0 +1,24 @@
+{
+  "id": "grammar/in_on_at_by",
+  "title": "Preposition - IN,ON,AT,BY",
+  "description": "IN",
+  "source": "@site/docs/grammar/in_on_at_by.md",
+  "sourceDirName": "grammar",
+  "slug": "/grammar/in_on_at_by",
+  "permalink": "/docs/grammar/in_on_at_by",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/grammar/in_on_at_by.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "in & into & in to & on & onto & on to",
+    "permalink": "/docs/grammar/in_into_on_onto"
+  },
+  "next": {
+    "title": "Stative verb and Dynamic verb",
+    "permalink": "/docs/grammar/stative_verb_dynamic_verb"
+  }
+}

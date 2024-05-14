@@ -1,0 +1,24 @@
+{
+  "id": "immigration/canada/雇主担保移民",
+  "title": "雇主担保移民 {ignore=true}",
+  "description": "",
+  "source": "@site/docs/immigration/canada/雇主担保移民.md",
+  "sourceDirName": "immigration/canada",
+  "slug": "/immigration/canada/雇主担保移民",
+  "permalink": "/docs/immigration/canada/雇主担保移民",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/immigration/canada/雇主担保移民.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "University",
+    "permalink": "/docs/immigration/canada/university"
+  },
+  "next": {
+    "title": "中国政策的两个特点",
+    "permalink": "/docs/immigration/china/中国政策的两个特点"
+  }
+}
