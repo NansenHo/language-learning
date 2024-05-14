@@ -8,7 +8,7 @@
           "label": "Next",
           "isLast": true,
           "path": "/docs",
-          "mainDocId": "differences/almost_nearly",
+          "mainDocId": "index",
           "docs": [
             {
               "id": "differences/almost_nearly",
@@ -66,11 +66,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "immigration/canada/雇主担保移民",
-              "path": "/docs/immigration/canada/雇主担保移民",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "immigration/china/中国政策的两个特点",
               "path": "/docs/immigration/china/中国政策的两个特点",
               "sidebar": "tutorialSidebar"
@@ -88,6 +83,11 @@
             {
               "id": "immigration/united_states/study_in_UnitedStates",
               "path": "/docs/immigration/united_states/study_in_UnitedStates",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "index",
+              "path": "/docs/",
               "sidebar": "tutorialSidebar"
             },
             {

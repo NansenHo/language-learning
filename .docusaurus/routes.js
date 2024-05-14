@@ -3,41 +3,6 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', '5ff'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', '5ba'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', '466'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', 'c3c'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', '156'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '88c'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
-    exact: true
-  },
-  {
     path: '/blog',
     component: ComponentCreator('/blog', 'e21'),
     exact: true
@@ -99,16 +64,22 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '8a6'),
+    component: ComponentCreator('/docs', '152'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '5b4'),
+        component: ComponentCreator('/docs', 'd75'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'b98'),
+            component: ComponentCreator('/docs', '962'),
             routes: [
+              {
+                path: '/docs/',
+                component: ComponentCreator('/docs/', '4a8'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
               {
                 path: '/docs/differences/almost_nearly',
                 component: ComponentCreator('/docs/differences/almost_nearly', 'aad'),
@@ -172,12 +143,6 @@ export default [
               {
                 path: '/docs/immigration/canada/Vancouver',
                 component: ComponentCreator('/docs/immigration/canada/Vancouver', 'dcd'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/immigration/canada/雇主担保移民',
-                component: ComponentCreator('/docs/immigration/canada/雇主担保移民', '1b9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

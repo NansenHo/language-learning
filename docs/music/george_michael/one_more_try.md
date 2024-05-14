@@ -62,7 +62,7 @@ Think that you're mine
 揣摩妳的心思
 
 'Cause teacher
-Because it [ain't](#ain't) no joy
+Because it ain't no joy
 For an uptown boy
 因為這對一個都會男孩來說是沒有樂趣的
 
@@ -82,7 +82,7 @@ I didn't feel the danger
 我不覺得有危機感
 
 Now I feel the heat /hiːt/
-That [look in your eyes](#look-in-someones-eyes)
+That look in your eyes
 現在我感覺到妳的雙眼透露出了熱情
 
 Telling me "No"
