@@ -78,41 +78,98 @@
 
 16. What does he do for a living?
 
-    a. No, he moved last week.
-    b. He does all the time.
+    a. No, he moved last week.  
+    b. He does all the time.  
     c. He's a accountant.
 
-    询问某人具体从事什么职业来维持生计时，这里的 “a” 是必不可少的，因为它使得 “living” 具体化，表示某种具体的工作或职业。
-    如果没有 “a”，句子的意思会变得不完整或不自然。
+    询问某人具体从事什么职业来维持生计时，这里的 “a” 是必不可少的，因为它使得 “living” 具体化，表示某种具体的工作或职业。  
+    如果没有 “a”，句子的意思会变得不完整或不自然。  
     听起来就不像是在询问某人的职业。
 
     accountant /əˈkaʊn.t̬ənt/ 会计
 
 17. Will you call the **travel agency** now, or later?
 
-    a. **Actually**, I called them yesterday. :white_check_mark:
-    b. Yes, I tavel **a lot**.（听成了 travel alone）
+    a. **Actually**, I called them yesterday. :white_check_mark:  
+    b. Yes, I tavel **a lot**.（听成了 travel alone）  
     c. **The flight should arrive soon**.（整句完全没听出）
 
-    agency /ˈeɪ.dʒən.si/ 代理机构
-    travel agency 旅行社
-    actually（注意拼写）实际上
+    agency /ˈeɪ.dʒən.si/ 代理机构  
+    travel agency 旅行社  
+    actually（注意拼写）实际上  
     flight /flaɪt/ 航班
 
 18. Don't you need this note for your presentation?
 
-    a. Thanks, I almost forgot about it. :white_check_mark:
-    b. Actually, There was nobody present.（每人到场）
+    a. Thanks, I almost forgot about it. :white_check_mark:  
+    b. Actually, There was nobody present.（每人到场）  
     c. No, I didn't take notes **during** the speech. (during 没听出来)
 
 19. Where should I put this box of ink cartridges, Ms. Fujimoto?
 
-    a. At the local stationery store.
-    b. Put it in the next room.
+    a. At the local stationery store.  
+    b. Put it in the next room.  
     c. She is the receptionist.
 
-    ink cartridge 墨水盒
-    cartridge /ˈkɑːr.trɪdʒ/ （设备中可替换的）芯，囊，管，筒
+    ink cartridge 墨水盒  
+    cartridge /ˈkɑːr.trɪdʒ/ （设备中可替换的）芯，囊，管，筒  
     receptionist /rɪˈsep.ʃən.ɪst/ 接待员，招待员
 
-20. 
+20. Who is good with computers?
+
+    a. Yes, It is very good.  
+    b. The software came with it.  
+    c. John is the person you are looking for. :white_check_mark:
+
+    be good with 擅长（通常表示某方面能力强）  
+    be good at 擅长（at 后一般跟表示活动的名词）  
+    [区分 good at / good in / good with](../../differences/good_at_in_with.md)
+
+21. **Won't** we have to use the overhead projector at the meeting?
+
+    a. I will **set it up** soon. :white_check_mark:  
+    b. It is a big project.  
+    c. I'll head over right now. 我现在就过去
+
+    the overhead projector 投影仪  
+    set it up 的连读没有听出来  
+    head over 立即前往某处，强调动作立即执行
+
+22. Where do you keep **the sales report**? 你把销售报告放哪了
+
+    a. Yes, I will.  
+    b. To the manager.  
+    c. In the **filing cabinet**.:white_check_mark:
+
+    where do you keep sth? 你把某个东西放哪了  
+    the sales report 销售报告  
+    filing /ˈfaɪ.lɪŋ/ 存档/归档  
+    cabinet /ˈkæb.ən.ət/ 储藏柜/陈列柜/厨柜  
+    filing cabinet 文件柜
+
+23. Do you want to **proofread the proposal**? Or would you prefer typing **up** the summary? 你想校对这份提案吗？还是更愿意打字总结。
+
+    a. Thank you. That would be very nice of you. 那真是太好了/那样真是太体贴了。  
+    b. Either is ok with me.:white_check_mark:  
+    c. Yes, I read it over twice.
+
+    proofread /ˈpruːf.riːd/ 校对  
+    proposal /prəˈpoʊ.zəl/ 提案/计划  
+    type sth up/out, type up sth 把什么打出来
+
+24. Didn't you back up the work on your computer?
+
+    a. I came through the front door.  
+    b. No, I forgot all about it.:white_check_mark:  
+    c. I will give it back to you today.
+
+25. Could you let me know your **decision** later, today?
+
+    a. I will **give you a ring** by **5 o'clock**.:white_check_mark:  
+    b. I'm sure **it** will not be too late. 我肯定不会太晚的  
+    c. It could go **either** way. 两种办法都可以
+
+    give sb a ring 给某人打电话  
+    decision 决定  
+
+26. Isn't that werid new mall 
