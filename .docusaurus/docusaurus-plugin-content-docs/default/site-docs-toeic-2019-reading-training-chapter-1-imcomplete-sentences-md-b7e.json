@@ -1,0 +1,24 @@
+{
+  "id": "toeic/reading-training/chapter1/imcomplete_sentences",
+  "title": "完成句子命题分析与应试技巧",
+  "description": "这部分主要考查语法和词汇方面的知识。",
+  "source": "@site/docs/toeic/2019-reading-training/chapter1/imcomplete_sentences.md",
+  "sourceDirName": "toeic/2019-reading-training/chapter1",
+  "slug": "/toeic/reading-training/chapter1/imcomplete_sentences",
+  "permalink": "/docs/toeic/reading-training/chapter1/imcomplete_sentences",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/toeic/2019-reading-training/chapter1/imcomplete_sentences.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "短文填空命题分析与应试技巧",
+    "permalink": "/docs/toeic/reading-training/chapter1/text_completion"
+  },
+  "next": {
+    "title": "Test 1 - Part 1",
+    "permalink": "/docs/toeic/test1/part1"
+  }
+}

@@ -99,37 +99,19 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '152'),
+    component: ComponentCreator('/docs', '7e0'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'd75'),
+        component: ComponentCreator('/docs', '003'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '962'),
+            component: ComponentCreator('/docs', 'd55'),
             routes: [
               {
                 path: '/docs/',
                 component: ComponentCreator('/docs/', '4a8'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/differences/almost_nearly',
-                component: ComponentCreator('/docs/differences/almost_nearly', 'aad'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/differences/eat-out_eat-outside',
-                component: ComponentCreator('/docs/differences/eat-out_eat-outside', '4b3'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/differences/whore_bitch',
-                component: ComponentCreator('/docs/differences/whore_bitch', 'b51'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -154,72 +136,6 @@ export default [
               {
                 path: '/docs/grammar/tenses',
                 component: ComponentCreator('/docs/grammar/tenses', '690'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/immigration/australia/work',
-                component: ComponentCreator('/docs/immigration/australia/work', '456'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/immigration/canada/Calgary',
-                component: ComponentCreator('/docs/immigration/canada/Calgary', '74b'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/immigration/canada/university',
-                component: ComponentCreator('/docs/immigration/canada/university', '299'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/immigration/canada/Vancouver',
-                component: ComponentCreator('/docs/immigration/canada/Vancouver', 'dcd'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/immigration/china/中国政策的两个特点',
-                component: ComponentCreator('/docs/immigration/china/中国政策的两个特点', 'b92'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/immigration/counties',
-                component: ComponentCreator('/docs/immigration/counties', '3cd'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/immigration/netherlands/study_in_netherlands',
-                component: ComponentCreator('/docs/immigration/netherlands/study_in_netherlands', 'eca'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/immigration/united_states/study_in_UnitedStates',
-                component: ComponentCreator('/docs/immigration/united_states/study_in_UnitedStates', '86d'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/life/eat',
-                component: ComponentCreator('/docs/life/eat', '8c0'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/life/wrinkle_care',
-                component: ComponentCreator('/docs/life/wrinkle_care', '05d'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/music/george_michael/one_more_try',
-                component: ComponentCreator('/docs/music/george_michael/one_more_try', '114'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -314,14 +230,26 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/talking_english/talk',
-                component: ComponentCreator('/docs/talking_english/talk', 'a97'),
+                path: '/docs/toeic/reading-training/',
+                component: ComponentCreator('/docs/toeic/reading-training/', 'ba7'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/talking_english/真下头',
-                component: ComponentCreator('/docs/talking_english/真下头', '544'),
+                path: '/docs/toeic/reading-training/chapter1/imcomplete_sentences',
+                component: ComponentCreator('/docs/toeic/reading-training/chapter1/imcomplete_sentences', 'e98'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/toeic/reading-training/chapter1/reading_comprehension',
+                component: ComponentCreator('/docs/toeic/reading-training/chapter1/reading_comprehension', '19f'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/toeic/reading-training/chapter1/text_completion',
+                component: ComponentCreator('/docs/toeic/reading-training/chapter1/text_completion', '33d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -338,14 +266,74 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/docs/words_phrases/business/first_loop_tech',
+                component: ComponentCreator('/docs/words_phrases/business/first_loop_tech', '967'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/words_phrases/differences/almost_nearly',
+                component: ComponentCreator('/docs/words_phrases/differences/almost_nearly', 'db9'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/words_phrases/differences/eat-out_eat-outside',
+                component: ComponentCreator('/docs/words_phrases/differences/eat-out_eat-outside', 'efa'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/words_phrases/differences/good_at_in_with',
+                component: ComponentCreator('/docs/words_phrases/differences/good_at_in_with', '238'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/words_phrases/differences/whore_bitch',
+                component: ComponentCreator('/docs/words_phrases/differences/whore_bitch', 'ec4'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/docs/words_phrases/friends/s01/E01',
                 component: ComponentCreator('/docs/words_phrases/friends/s01/E01', 'a93'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/docs/words_phrases/life/eat',
+                component: ComponentCreator('/docs/words_phrases/life/eat', 'e5d'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/docs/words_phrases/life/haircut',
                 component: ComponentCreator('/docs/words_phrases/life/haircut', 'd9f'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/words_phrases/life/wrinkle_care',
+                component: ComponentCreator('/docs/words_phrases/life/wrinkle_care', '95d'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/words_phrases/music/george_michael/one_more_try',
+                component: ComponentCreator('/docs/words_phrases/music/george_michael/one_more_try', '3c7'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/words_phrases/talking_english/talk',
+                component: ComponentCreator('/docs/words_phrases/talking_english/talk', '86e'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/words_phrases/talking_english/真下头',
+                component: ComponentCreator('/docs/words_phrases/talking_english/真下头', 'a8a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

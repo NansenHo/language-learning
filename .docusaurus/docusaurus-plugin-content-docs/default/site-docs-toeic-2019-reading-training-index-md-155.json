@@ -1,0 +1,24 @@
+{
+  "id": "toeic/reading-training/index",
+  "title": "《2019 年托业考试阅读高分特训 1000 题【命题分析＋答题攻略＋强化训练】》",
+  "description": "",
+  "source": "@site/docs/toeic/2019-reading-training/index.md",
+  "sourceDirName": "toeic/2019-reading-training",
+  "slug": "/toeic/reading-training/",
+  "permalink": "/docs/toeic/reading-training/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/toeic/2019-reading-training/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Words",
+    "permalink": "/docs/pronunciation/words"
+  },
+  "next": {
+    "title": "完成句子命题分析与应试技巧",
+    "permalink": "/docs/toeic/reading-training/chapter1/imcomplete_sentences"
+  }
+}

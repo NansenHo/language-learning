@@ -1,0 +1,24 @@
+{
+  "id": "words_phrases/talking_english/talk",
+  "title": "talk",
+  "description": "",
+  "source": "@site/docs/words_phrases/talking_english/talk.md",
+  "sourceDirName": "words_phrases/talking_english",
+  "slug": "/words_phrases/talking_english/talk",
+  "permalink": "/docs/words_phrases/talking_english/talk",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/words_phrases/talking_english/talk.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "One More Try",
+    "permalink": "/docs/words_phrases/music/george_michael/one_more_try"
+  },
+  "next": {
+    "title": "“真下头”",
+    "permalink": "/docs/words_phrases/talking_english/真下头"
+  }
+}

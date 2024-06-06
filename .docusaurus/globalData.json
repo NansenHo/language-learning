@@ -11,21 +11,6 @@
           "mainDocId": "index",
           "docs": [
             {
-              "id": "differences/almost_nearly",
-              "path": "/docs/differences/almost_nearly",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "differences/eat-out_eat-outside",
-              "path": "/docs/differences/eat-out_eat-outside",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "differences/whore_bitch",
-              "path": "/docs/differences/whore_bitch",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "grammar/in_into_on_onto",
               "path": "/docs/grammar/in_into_on_onto",
               "sidebar": "tutorialSidebar"
@@ -46,63 +31,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "immigration/australia/work",
-              "path": "/docs/immigration/australia/work",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "immigration/canada/Calgary",
-              "path": "/docs/immigration/canada/Calgary",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "immigration/canada/university",
-              "path": "/docs/immigration/canada/university",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "immigration/canada/Vancouver",
-              "path": "/docs/immigration/canada/Vancouver",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "immigration/china/中国政策的两个特点",
-              "path": "/docs/immigration/china/中国政策的两个特点",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "immigration/counties",
-              "path": "/docs/immigration/counties",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "immigration/netherlands/study_in_netherlands",
-              "path": "/docs/immigration/netherlands/study_in_netherlands",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "immigration/united_states/study_in_UnitedStates",
-              "path": "/docs/immigration/united_states/study_in_UnitedStates",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "index",
               "path": "/docs/",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "life/eat",
-              "path": "/docs/life/eat",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "life/wrinkle_care",
-              "path": "/docs/life/wrinkle_care",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "music/george_michael/one_more_try",
-              "path": "/docs/music/george_michael/one_more_try",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -181,13 +111,23 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "talking_english/talk",
-              "path": "/docs/talking_english/talk",
+              "id": "toeic/reading-training/chapter1/imcomplete_sentences",
+              "path": "/docs/toeic/reading-training/chapter1/imcomplete_sentences",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "talking_english/真下头",
-              "path": "/docs/talking_english/真下头",
+              "id": "toeic/reading-training/chapter1/reading_comprehension",
+              "path": "/docs/toeic/reading-training/chapter1/reading_comprehension",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "toeic/reading-training/chapter1/text_completion",
+              "path": "/docs/toeic/reading-training/chapter1/text_completion",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "toeic/reading-training/index",
+              "path": "/docs/toeic/reading-training/",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -201,13 +141,63 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "words_phrases/business/first_loop_tech",
+              "path": "/docs/words_phrases/business/first_loop_tech",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "words_phrases/differences/almost_nearly",
+              "path": "/docs/words_phrases/differences/almost_nearly",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "words_phrases/differences/eat-out_eat-outside",
+              "path": "/docs/words_phrases/differences/eat-out_eat-outside",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "words_phrases/differences/good_at_in_with",
+              "path": "/docs/words_phrases/differences/good_at_in_with",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "words_phrases/differences/whore_bitch",
+              "path": "/docs/words_phrases/differences/whore_bitch",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "words_phrases/friends/s01/E01",
               "path": "/docs/words_phrases/friends/s01/E01",
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "words_phrases/life/eat",
+              "path": "/docs/words_phrases/life/eat",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "words_phrases/life/haircut",
               "path": "/docs/words_phrases/life/haircut",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "words_phrases/life/wrinkle_care",
+              "path": "/docs/words_phrases/life/wrinkle_care",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "words_phrases/music/george_michael/one_more_try",
+              "path": "/docs/words_phrases/music/george_michael/one_more_try",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "words_phrases/talking_english/talk",
+              "path": "/docs/words_phrases/talking_english/talk",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "words_phrases/talking_english/真下头",
+              "path": "/docs/words_phrases/talking_english/真下头",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -215,8 +205,8 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/differences/almost_nearly",
-                "label": "differences/almost_nearly"
+                "path": "/docs/grammar/in_into_on_onto",
+                "label": "grammar/in_into_on_onto"
               }
             }
           }

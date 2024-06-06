@@ -1,7 +1,7 @@
 {
   "id": "index",
-  "title": "Language Learning",
-  "description": "",
+  "title": "学习外语最好的方法",
+  "description": "全文背诵法：",
   "source": "@site/docs/index.md",
   "sourceDirName": ".",
   "slug": "/",
@@ -14,11 +14,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Study in United States",
-    "permalink": "/docs/immigration/united_states/study_in_UnitedStates"
+    "title": "Tenses",
+    "permalink": "/docs/grammar/tenses"
   },
   "next": {
-    "title": "EAT",
-    "permalink": "/docs/life/eat"
+    "title": "Alphabet",
+    "permalink": "/docs/pronunciation/1_1_字母"
   }
 }

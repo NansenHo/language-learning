@@ -170,6 +170,37 @@
     c. It could go **either** way. 两种办法都可以
 
     give sb a ring 给某人打电话  
-    decision 决定  
+    decision 决定
 
-26. Isn't that werid new mall 
+26. Isn't that **where the** new mall is going to be built?
+
+    a. **You will** be going there this afternoon.  
+    b. I think you might be right.  
+    c. Yes, the mall is close to here.
+
+    where the 听成了 weird  
+    close to here 和 not far from here 是一样的
+
+27. **To Whom** should I be handing these receipts?
+
+    a. John will **take them off** your hands. 约翰会替你处理掉它们  
+    b. She give them to me today.  
+    c. To get a tax break. 得到减税
+
+28. What did you think the movie we just saw?
+
+    a. I'll see it this weekend.  
+    b. At the **theater** in the **mall**.  
+    c. It was very exciting.:white_check_mark:
+
+    theater /ˈθiː.ə.t̬ɚ/ 电影院  
+    mall /mɑːl/ 购物中心
+
+29. Do I have to deliberate in person.（不对）
+
+    a. No, you can **mail it** in instead. 你可以改为邮寄  
+    b. Yes, **he works at the** post office.
+    c. On the first **basement floor**. ::
+
+
+30. 

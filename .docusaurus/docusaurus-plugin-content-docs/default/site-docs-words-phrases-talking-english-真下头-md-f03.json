@@ -1,0 +1,20 @@
+{
+  "id": "words_phrases/talking_english/真下头",
+  "title": "“真下头”",
+  "description": "It really kills the mood.（真的很破坏气氛）",
+  "source": "@site/docs/words_phrases/talking_english/真下头.md",
+  "sourceDirName": "words_phrases/talking_english",
+  "slug": "/words_phrases/talking_english/真下头",
+  "permalink": "/docs/words_phrases/talking_english/真下头",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/words_phrases/talking_english/真下头.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "talk",
+    "permalink": "/docs/words_phrases/talking_english/talk"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "words_phrases/differences/almost_nearly",
+  "title": "Almost & Nearly",
+  "description": "How They Are Defined:",
+  "source": "@site/docs/words_phrases/differences/almost_nearly.md",
+  "sourceDirName": "words_phrases/differences",
+  "slug": "/words_phrases/differences/almost_nearly",
+  "permalink": "/docs/words_phrases/differences/almost_nearly",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/words_phrases/differences/almost_nearly.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "First Loop Technologies 　日本語勉強ノート",
+    "permalink": "/docs/words_phrases/business/first_loop_tech"
+  },
+  "next": {
+    "title": "Eat Out & Eat Outside",
+    "permalink": "/docs/words_phrases/differences/eat-out_eat-outside"
+  }
+}

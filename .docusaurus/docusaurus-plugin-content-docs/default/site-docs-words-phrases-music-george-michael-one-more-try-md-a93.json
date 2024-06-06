@@ -1,0 +1,24 @@
+{
+  "id": "words_phrases/music/george_michael/one_more_try",
+  "title": "One More Try",
+  "description": "Words and Phrases in Lyrics",
+  "source": "@site/docs/words_phrases/music/george_michael/one_more_try.md",
+  "sourceDirName": "words_phrases/music/george_michael",
+  "slug": "/words_phrases/music/george_michael/one_more_try",
+  "permalink": "/docs/words_phrases/music/george_michael/one_more_try",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/words_phrases/music/george_michael/one_more_try.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WRINKLE CARE",
+    "permalink": "/docs/words_phrases/life/wrinkle_care"
+  },
+  "next": {
+    "title": "talk",
+    "permalink": "/docs/words_phrases/talking_english/talk"
+  }
+}

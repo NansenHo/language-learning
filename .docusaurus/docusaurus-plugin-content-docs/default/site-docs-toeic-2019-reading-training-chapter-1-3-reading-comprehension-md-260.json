@@ -1,0 +1,25 @@
+{
+  "id": "toeic/reading-training/chapter1/reading_comprehension",
+  "title": "阅读理解命题分析与应试技巧",
+  "description": "文章类型分析",
+  "source": "@site/docs/toeic/2019-reading-training/chapter1/3_ reading_comprehension.md",
+  "sourceDirName": "toeic/2019-reading-training/chapter1",
+  "slug": "/toeic/reading-training/chapter1/reading_comprehension",
+  "permalink": "/docs/toeic/reading-training/chapter1/reading_comprehension",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/toeic/2019-reading-training/chapter1/3_ reading_comprehension.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "短文填空命题分析与应试技巧",
+    "permalink": "/docs/toeic/reading-training/chapter1/text_completion"
+  },
+  "next": {
+    "title": "Test 1 - Part 1",
+    "permalink": "/docs/toeic/test1/part1"
+  }
+}

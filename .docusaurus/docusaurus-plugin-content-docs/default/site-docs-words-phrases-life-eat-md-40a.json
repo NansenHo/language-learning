@@ -1,0 +1,24 @@
+{
+  "id": "words_phrases/life/eat",
+  "title": "EAT",
+  "description": "| English | Meaning | Japanese | Chinese |  |  |  |  |",
+  "source": "@site/docs/words_phrases/life/eat.md",
+  "sourceDirName": "words_phrases/life",
+  "slug": "/words_phrases/life/eat",
+  "permalink": "/docs/words_phrases/life/eat",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/words_phrases/life/eat.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Monica Gets a New Roommate",
+    "permalink": "/docs/words_phrases/friends/s01/E01"
+  },
+  "next": {
+    "title": "Hair Cut",
+    "permalink": "/docs/words_phrases/life/haircut"
+  }
+}
