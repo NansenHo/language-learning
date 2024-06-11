@@ -123,7 +123,7 @@
 
     be good with 擅长（通常表示某方面能力强）  
     be good at 擅长（at 后一般跟表示活动的名词）  
-    [区分 good at / good in / good with](../../differences/good_at_in_with.md)
+    [区分 good at / good in / good with](../../words_phrases/differences/good_at_in_with.md)
 
 21. **Won't** we have to use the overhead projector at the meeting?
 
@@ -202,5 +202,4 @@
     b. Yes, **he works at the** post office.
     c. On the first **basement floor**. ::
 
-
-30. 
+30.
