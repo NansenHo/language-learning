@@ -202,4 +202,12 @@
     b. Yes, **he works at the** post office.
     c. On the first **basement floor**. ::
 
-30.
+30. Should I **schedule you for two** this afternoon?
+
+    a. Yes, I **have a full schedule** today. 是的，我今天安排很满  
+    b. That would **suit me fine**. 对我来说很合适  
+    c. No, There will be **three of us**.
+
+31. Please give me an answer as soon as you can.
+
+    a

@@ -1,0 +1,24 @@
+{
+  "id": "words_phrases/speech/TED/emotional_hygiene",
+  "title": "Emotional Hygiene",
+  "description": "We should practice emotional hygiene. 我们需要注意情绪建康",
+  "source": "@site/docs/words_phrases/speech/TED/emotional_hygiene.md",
+  "sourceDirName": "words_phrases/speech/TED",
+  "slug": "/words_phrases/speech/TED/emotional_hygiene",
+  "permalink": "/docs/words_phrases/speech/TED/emotional_hygiene",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/words_phrases/speech/TED/emotional_hygiene.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "One More Try",
+    "permalink": "/docs/words_phrases/music/george_michael/one_more_try"
+  },
+  "next": {
+    "title": "talk",
+    "permalink": "/docs/words_phrases/talking_english/talk"
+  }
+}

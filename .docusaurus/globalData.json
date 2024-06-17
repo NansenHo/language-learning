@@ -126,6 +126,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "toeic/reading-training/chapter2/noun_ article",
+              "path": "/docs/toeic/reading-training/chapter2/noun_ article",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "toeic/reading-training/index",
               "path": "/docs/toeic/reading-training/",
               "sidebar": "tutorialSidebar"
@@ -138,6 +143,11 @@
             {
               "id": "toeic/test1/part2",
               "path": "/docs/toeic/test1/part2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "toeic/toeic/index",
+              "path": "/docs/toeic/toeic/",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -166,11 +176,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "words_phrases/friends/s01/E01",
-              "path": "/docs/words_phrases/friends/s01/E01",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "words_phrases/life/eat",
               "path": "/docs/words_phrases/life/eat",
               "sidebar": "tutorialSidebar"
@@ -186,8 +191,18 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "words_phrases/movies/friends/s01/E01",
+              "path": "/docs/words_phrases/movies/friends/s01/E01",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "words_phrases/music/george_michael/one_more_try",
               "path": "/docs/words_phrases/music/george_michael/one_more_try",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "words_phrases/speech/TED/emotional_hygiene",
+              "path": "/docs/words_phrases/speech/TED/emotional_hygiene",
               "sidebar": "tutorialSidebar"
             },
             {

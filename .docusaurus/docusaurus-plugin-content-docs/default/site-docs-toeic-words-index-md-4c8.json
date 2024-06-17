@@ -1,0 +1,24 @@
+{
+  "id": "toeic/words/index",
+  "title": "Words",
+  "description": "1. auction /ˈɑːk.ʃən/ n.v.拍卖",
+  "source": "@site/docs/toeic/words/index.md",
+  "sourceDirName": "toeic/words",
+  "slug": "/toeic/words/",
+  "permalink": "/docs/toeic/words/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/toeic/words/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Test1 - Part2",
+    "permalink": "/docs/toeic/test1/part2"
+  },
+  "next": {
+    "title": "First Loop Technologies 　日本語勉強ノート",
+    "permalink": "/docs/words_phrases/business/first_loop_tech"
+  }
+}

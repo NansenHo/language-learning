@@ -3,6 +3,41 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/__docusaurus/debug',
+    component: ComponentCreator('/__docusaurus/debug', '5ff'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/config',
+    component: ComponentCreator('/__docusaurus/debug/config', '5ba'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/content',
+    component: ComponentCreator('/__docusaurus/debug/content', '466'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/globalData',
+    component: ComponentCreator('/__docusaurus/debug/globalData', 'c3c'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/metadata',
+    component: ComponentCreator('/__docusaurus/debug/metadata', '156'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/registry',
+    component: ComponentCreator('/__docusaurus/debug/registry', '88c'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/routes',
+    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
+    exact: true
+  },
+  {
     path: '/blog',
     component: ComponentCreator('/blog', 'e21'),
     exact: true
@@ -64,15 +99,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '7e0'),
+    component: ComponentCreator('/docs', 'd1e'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '003'),
+        component: ComponentCreator('/docs', '1ef'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'd55'),
+            component: ComponentCreator('/docs', 'ee2'),
             routes: [
               {
                 path: '/docs/',
@@ -219,6 +254,12 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/docs/toeic/reading-training/chapter2/noun_ article',
+                component: ComponentCreator('/docs/toeic/reading-training/chapter2/noun_ article', 'c4e'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/docs/toeic/test1/part1',
                 component: ComponentCreator('/docs/toeic/test1/part1', 'da8'),
                 exact: true,
@@ -227,6 +268,12 @@ export default [
               {
                 path: '/docs/toeic/test1/part2',
                 component: ComponentCreator('/docs/toeic/test1/part2', '3f4'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/toeic/toeic/',
+                component: ComponentCreator('/docs/toeic/toeic/', 'b1b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -261,12 +308,6 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/words_phrases/friends/s01/E01',
-                component: ComponentCreator('/docs/words_phrases/friends/s01/E01', 'a93'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
                 path: '/docs/words_phrases/life/eat',
                 component: ComponentCreator('/docs/words_phrases/life/eat', 'e5d'),
                 exact: true,
@@ -285,8 +326,20 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/docs/words_phrases/movies/friends/s01/E01',
+                component: ComponentCreator('/docs/words_phrases/movies/friends/s01/E01', '6e8'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/docs/words_phrases/music/george_michael/one_more_try',
                 component: ComponentCreator('/docs/words_phrases/music/george_michael/one_more_try', '3c7'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/words_phrases/speech/TED/emotional_hygiene',
+                component: ComponentCreator('/docs/words_phrases/speech/TED/emotional_hygiene', 'a57'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

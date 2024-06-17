@@ -1,0 +1,24 @@
+{
+  "id": "words_phrases/movies/friends/s01/E01",
+  "title": "Monica Gets a New Roommate",
+  "description": "Wrods",
+  "source": "@site/docs/words_phrases/movies/friends/s01/E01.md",
+  "sourceDirName": "words_phrases/movies/friends/s01",
+  "slug": "/words_phrases/movies/friends/s01/E01",
+  "permalink": "/docs/words_phrases/movies/friends/s01/E01",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/words_phrases/movies/friends/s01/E01.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WRINKLE CARE",
+    "permalink": "/docs/words_phrases/life/wrinkle_care"
+  },
+  "next": {
+    "title": "One More Try",
+    "permalink": "/docs/words_phrases/music/george_michael/one_more_try"
+  }
+}

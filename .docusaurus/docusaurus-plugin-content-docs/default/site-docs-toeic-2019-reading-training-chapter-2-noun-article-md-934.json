@@ -1,0 +1,24 @@
+{
+  "id": "toeic/reading-training/chapter2/noun_ article",
+  "title": "名词 & 冠词",
+  "description": "- Apparently 看起来/好像/似乎，显然地",
+  "source": "@site/docs/toeic/2019-reading-training/chapter2/noun_ article.md",
+  "sourceDirName": "toeic/2019-reading-training/chapter2",
+  "slug": "/toeic/reading-training/chapter2/noun_ article",
+  "permalink": "/docs/toeic/reading-training/chapter2/noun_ article",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/toeic/2019-reading-training/chapter2/noun_ article.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "阅读理解命题分析与应试技巧",
+    "permalink": "/docs/toeic/reading-training/chapter1/reading_comprehension"
+  },
+  "next": {
+    "title": "Test 1 - Part 1",
+    "permalink": "/docs/toeic/test1/part1"
+  }
+}
