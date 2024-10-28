@@ -13,6 +13,10 @@
   "version": "current",
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Catalogue",
+    "permalink": "/docs/"
+  },
   "next": {
     "title": "Preposition - IN,ON,AT,BY",
     "permalink": "/docs/grammar/in_on_at_by"

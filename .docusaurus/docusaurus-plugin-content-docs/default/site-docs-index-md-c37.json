@@ -1,7 +1,7 @@
 {
   "id": "index",
-  "title": "学习外语最好的方法",
-  "description": "全文背诵法：",
+  "title": "Catalogue",
+  "description": "",
   "source": "@site/docs/index.md",
   "sourceDirName": ".",
   "slug": "/",
@@ -13,12 +13,8 @@
   "version": "current",
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
-  "previous": {
-    "title": "Tenses",
-    "permalink": "/docs/grammar/tenses"
-  },
   "next": {
-    "title": "Alphabet",
-    "permalink": "/docs/pronunciation/1_1_字母"
+    "title": "in & into & in to & on & onto & on to",
+    "permalink": "/docs/grammar/in_into_on_onto"
   }
 }

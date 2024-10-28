@@ -194,17 +194,17 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-d1e": {
+  "/docs-c05": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-1ef": {
+  "/docs-a5f": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-7-c-1-f86"
   },
-  "/docs-ee2": {
+  "/docs-265": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/-4a8": {
@@ -287,89 +287,29 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-pronunciation-wordsf-09-5c2"
   },
-  "/docs/toeic/reading-training/-ba7": {
+  "/docs/words_phrases/business_japanese-7a5": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-toeic-reading-training-155-f11"
+    "content": "content---docs-words-phrases-business-japanese-02-c-ffe"
   },
-  "/docs/toeic/reading-training/chapter1/imcomplete_sentences-e98": {
+  "/docs/words_phrases/synonym_analysis/almost_nearly-9df": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-toeic-reading-training-chapter-1-imcomplete-sentencesf-84-342"
+    "content": "content---docs-words-phrases-synonym-analysis-almost-nearlye-4-d-328"
   },
-  "/docs/toeic/reading-training/chapter1/reading_comprehension-19f": {
+  "/docs/words_phrases/synonym_analysis/eat-out_eat-outside-65b": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-toeic-reading-training-chapter-1-reading-comprehension-260-188"
+    "content": "content---docs-words-phrases-synonym-analysis-eat-out-eat-outsidefff-bb2"
   },
-  "/docs/toeic/reading-training/chapter1/text_completion-33d": {
+  "/docs/words_phrases/synonym_analysis/good_at_in_with-008": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-toeic-reading-training-chapter-1-text-completion-212-7a1"
+    "content": "content---docs-words-phrases-synonym-analysis-good-at-in-with-63-a-a39"
   },
-  "/docs/toeic/reading-training/chapter2/noun_ article-c4e": {
+  "/docs/words_phrases/synonym_analysis/whore_bitch-716": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-toeic-reading-training-chapter-2-noun-article-934-3be"
+    "content": "content---docs-words-phrases-synonym-analysis-whore-bitcheed-3ff"
   },
-  "/docs/toeic/test1/part1-da8": {
+  "/docs/words_phrases/toeic-c8a": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-toeic-test-1-part-1-ef-6-c0d"
-  },
-  "/docs/toeic/test1/part2-3f4": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-toeic-test-1-part-21-ce-aae"
-  },
-  "/docs/toeic/toeic/-b1b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-toeic-toeic-89-f-349"
-  },
-  "/docs/words_phrases/business/first_loop_tech-967": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-words-phrases-business-first-loop-techc-81-de8"
-  },
-  "/docs/words_phrases/differences/almost_nearly-db9": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-words-phrases-differences-almost-nearly-36-d-ad4"
-  },
-  "/docs/words_phrases/differences/eat-out_eat-outside-efa": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-words-phrases-differences-eat-out-eat-outside-1-f-8-231"
-  },
-  "/docs/words_phrases/differences/good_at_in_with-238": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-words-phrases-differences-good-at-in-withf-0-a-605"
-  },
-  "/docs/words_phrases/differences/whore_bitch-ec4": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-words-phrases-differences-whore-bitchb-2-c-184"
-  },
-  "/docs/words_phrases/life/eat-e5d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-words-phrases-life-eat-40-a-f34"
-  },
-  "/docs/words_phrases/life/haircut-d9f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-words-phrases-life-haircut-505-fc9"
-  },
-  "/docs/words_phrases/life/wrinkle_care-95d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-words-phrases-life-wrinkle-caref-04-10c"
-  },
-  "/docs/words_phrases/movies/friends/s01/E01-6e8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-words-phrases-movies-friends-s-01-e-01773-32c"
-  },
-  "/docs/words_phrases/music/george_michael/one_more_try-3c7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-words-phrases-music-george-michael-one-more-trya-93-d49"
-  },
-  "/docs/words_phrases/speech/TED/emotional_hygiene-a57": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-words-phrases-speech-ted-emotional-hygiene-2-e-1-95b"
-  },
-  "/docs/words_phrases/talking_english/talk-86e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-words-phrases-talking-english-talke-6-a-869"
-  },
-  "/docs/words_phrases/talking_english/真下头-a8a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-words-phrases-talking-english-真下头f-03-45f"
+    "content": "content---docs-words-phrases-toeicc-32-f97"
   },
   "/-e5f": {
     "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",

@@ -1,0 +1,24 @@
+{
+  "id": "words_phrases/diff/almost_nearly",
+  "title": "Almost & Nearly",
+  "description": "How They Are Defined:",
+  "source": "@site/docs/words_phrases/diff/almost_nearly.md",
+  "sourceDirName": "words_phrases/diff",
+  "slug": "/words_phrases/diff/almost_nearly",
+  "permalink": "/docs/words_phrases/diff/almost_nearly",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/words_phrases/diff/almost_nearly.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ビスネス日本語",
+    "permalink": "/docs/words_phrases/business_japanese"
+  },
+  "next": {
+    "title": "Eat Out & Eat Outside",
+    "permalink": "/docs/words_phrases/diff/eat-out_eat-outside"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "words_phrases/toeic",
+  "title": "TOEIC Words & Phrases",
+  "description": "- auction /ˈɑːk.ʃən/ n.v.拍卖",
+  "source": "@site/docs/words_phrases/0_toeic.md",
+  "sourceDirName": "words_phrases",
+  "slug": "/words_phrases/toeic",
+  "permalink": "/docs/words_phrases/toeic",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/words_phrases/0_toeic.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Test1 - Part2",
+    "permalink": "/docs/toeic/test1/part2"
+  },
+  "next": {
+    "title": "ビスネス日本語",
+    "permalink": "/docs/words_phrases/business_japanese"
+  }
+}

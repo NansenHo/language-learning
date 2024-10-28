@@ -1,0 +1,20 @@
+{
+  "id": "books/転職面接_採用を勝ち取る技術/words",
+  "title": "転職面接-採用を勝ち取る技術 | 単語帳",
+  "description": "| Japanese | Meanings | Chinese | Other |",
+  "source": "@site/docs/books/転職面接_採用を勝ち取る技術/words.md",
+  "sourceDirName": "books/転職面接_採用を勝ち取る技術",
+  "slug": "/books/転職面接_採用を勝ち取る技術/words",
+  "permalink": "/docs/books/転職面接_採用を勝ち取る技術/words",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/books/転職面接_採用を勝ち取る技術/words.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "in & into & in to & on & onto & on to",
+    "permalink": "/docs/grammar/in_into_on_onto"
+  }
+}

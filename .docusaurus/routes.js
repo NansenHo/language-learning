@@ -99,15 +99,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'd1e'),
+    component: ComponentCreator('/docs', 'c05'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '1ef'),
+        component: ComponentCreator('/docs', 'a5f'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'ee2'),
+            component: ComponentCreator('/docs', '265'),
             routes: [
               {
                 path: '/docs/',
@@ -230,128 +230,38 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/toeic/reading-training/',
-                component: ComponentCreator('/docs/toeic/reading-training/', 'ba7'),
+                path: '/docs/words_phrases/business_japanese',
+                component: ComponentCreator('/docs/words_phrases/business_japanese', '7a5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/toeic/reading-training/chapter1/imcomplete_sentences',
-                component: ComponentCreator('/docs/toeic/reading-training/chapter1/imcomplete_sentences', 'e98'),
+                path: '/docs/words_phrases/synonym_analysis/almost_nearly',
+                component: ComponentCreator('/docs/words_phrases/synonym_analysis/almost_nearly', '9df'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/toeic/reading-training/chapter1/reading_comprehension',
-                component: ComponentCreator('/docs/toeic/reading-training/chapter1/reading_comprehension', '19f'),
+                path: '/docs/words_phrases/synonym_analysis/eat-out_eat-outside',
+                component: ComponentCreator('/docs/words_phrases/synonym_analysis/eat-out_eat-outside', '65b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/toeic/reading-training/chapter1/text_completion',
-                component: ComponentCreator('/docs/toeic/reading-training/chapter1/text_completion', '33d'),
+                path: '/docs/words_phrases/synonym_analysis/good_at_in_with',
+                component: ComponentCreator('/docs/words_phrases/synonym_analysis/good_at_in_with', '008'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/toeic/reading-training/chapter2/noun_ article',
-                component: ComponentCreator('/docs/toeic/reading-training/chapter2/noun_ article', 'c4e'),
+                path: '/docs/words_phrases/synonym_analysis/whore_bitch',
+                component: ComponentCreator('/docs/words_phrases/synonym_analysis/whore_bitch', '716'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/toeic/test1/part1',
-                component: ComponentCreator('/docs/toeic/test1/part1', 'da8'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/toeic/test1/part2',
-                component: ComponentCreator('/docs/toeic/test1/part2', '3f4'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/toeic/toeic/',
-                component: ComponentCreator('/docs/toeic/toeic/', 'b1b'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/words_phrases/business/first_loop_tech',
-                component: ComponentCreator('/docs/words_phrases/business/first_loop_tech', '967'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/words_phrases/differences/almost_nearly',
-                component: ComponentCreator('/docs/words_phrases/differences/almost_nearly', 'db9'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/words_phrases/differences/eat-out_eat-outside',
-                component: ComponentCreator('/docs/words_phrases/differences/eat-out_eat-outside', 'efa'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/words_phrases/differences/good_at_in_with',
-                component: ComponentCreator('/docs/words_phrases/differences/good_at_in_with', '238'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/words_phrases/differences/whore_bitch',
-                component: ComponentCreator('/docs/words_phrases/differences/whore_bitch', 'ec4'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/words_phrases/life/eat',
-                component: ComponentCreator('/docs/words_phrases/life/eat', 'e5d'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/words_phrases/life/haircut',
-                component: ComponentCreator('/docs/words_phrases/life/haircut', 'd9f'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/words_phrases/life/wrinkle_care',
-                component: ComponentCreator('/docs/words_phrases/life/wrinkle_care', '95d'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/words_phrases/movies/friends/s01/E01',
-                component: ComponentCreator('/docs/words_phrases/movies/friends/s01/E01', '6e8'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/words_phrases/music/george_michael/one_more_try',
-                component: ComponentCreator('/docs/words_phrases/music/george_michael/one_more_try', '3c7'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/words_phrases/speech/TED/emotional_hygiene',
-                component: ComponentCreator('/docs/words_phrases/speech/TED/emotional_hygiene', 'a57'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/words_phrases/talking_english/talk',
-                component: ComponentCreator('/docs/words_phrases/talking_english/talk', '86e'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/words_phrases/talking_english/真下头',
-                component: ComponentCreator('/docs/words_phrases/talking_english/真下头', 'a8a'),
+                path: '/docs/words_phrases/toeic',
+                component: ComponentCreator('/docs/words_phrases/toeic', 'c8a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

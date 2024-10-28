@@ -1,0 +1,24 @@
+{
+  "id": "words_phrases/diff/good_at_in_with",
+  "title": "good at/in/with",
+  "description": "一分鐘搞懂英文，Good at, good in, good with 差別跟用法絕對不再搞錯！",
+  "source": "@site/docs/words_phrases/diff/good_at_in_with.md",
+  "sourceDirName": "words_phrases/diff",
+  "slug": "/words_phrases/diff/good_at_in_with",
+  "permalink": "/docs/words_phrases/diff/good_at_in_with",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/words_phrases/diff/good_at_in_with.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Eat Out & Eat Outside",
+    "permalink": "/docs/words_phrases/diff/eat-out_eat-outside"
+  },
+  "next": {
+    "title": "Whore & Bitch",
+    "permalink": "/docs/words_phrases/diff/whore_bitch"
+  }
+}

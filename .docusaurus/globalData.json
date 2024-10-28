@@ -111,108 +111,33 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "toeic/reading-training/chapter1/imcomplete_sentences",
-              "path": "/docs/toeic/reading-training/chapter1/imcomplete_sentences",
+              "id": "words_phrases/business_japanese",
+              "path": "/docs/words_phrases/business_japanese",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "toeic/reading-training/chapter1/reading_comprehension",
-              "path": "/docs/toeic/reading-training/chapter1/reading_comprehension",
+              "id": "words_phrases/synonym_analysis/almost_nearly",
+              "path": "/docs/words_phrases/synonym_analysis/almost_nearly",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "toeic/reading-training/chapter1/text_completion",
-              "path": "/docs/toeic/reading-training/chapter1/text_completion",
+              "id": "words_phrases/synonym_analysis/eat-out_eat-outside",
+              "path": "/docs/words_phrases/synonym_analysis/eat-out_eat-outside",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "toeic/reading-training/chapter2/noun_ article",
-              "path": "/docs/toeic/reading-training/chapter2/noun_ article",
+              "id": "words_phrases/synonym_analysis/good_at_in_with",
+              "path": "/docs/words_phrases/synonym_analysis/good_at_in_with",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "toeic/reading-training/index",
-              "path": "/docs/toeic/reading-training/",
+              "id": "words_phrases/synonym_analysis/whore_bitch",
+              "path": "/docs/words_phrases/synonym_analysis/whore_bitch",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "toeic/test1/part1",
-              "path": "/docs/toeic/test1/part1",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "toeic/test1/part2",
-              "path": "/docs/toeic/test1/part2",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "toeic/toeic/index",
-              "path": "/docs/toeic/toeic/",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "words_phrases/business/first_loop_tech",
-              "path": "/docs/words_phrases/business/first_loop_tech",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "words_phrases/differences/almost_nearly",
-              "path": "/docs/words_phrases/differences/almost_nearly",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "words_phrases/differences/eat-out_eat-outside",
-              "path": "/docs/words_phrases/differences/eat-out_eat-outside",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "words_phrases/differences/good_at_in_with",
-              "path": "/docs/words_phrases/differences/good_at_in_with",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "words_phrases/differences/whore_bitch",
-              "path": "/docs/words_phrases/differences/whore_bitch",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "words_phrases/life/eat",
-              "path": "/docs/words_phrases/life/eat",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "words_phrases/life/haircut",
-              "path": "/docs/words_phrases/life/haircut",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "words_phrases/life/wrinkle_care",
-              "path": "/docs/words_phrases/life/wrinkle_care",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "words_phrases/movies/friends/s01/E01",
-              "path": "/docs/words_phrases/movies/friends/s01/E01",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "words_phrases/music/george_michael/one_more_try",
-              "path": "/docs/words_phrases/music/george_michael/one_more_try",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "words_phrases/speech/TED/emotional_hygiene",
-              "path": "/docs/words_phrases/speech/TED/emotional_hygiene",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "words_phrases/talking_english/talk",
-              "path": "/docs/words_phrases/talking_english/talk",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "words_phrases/talking_english/真下头",
-              "path": "/docs/words_phrases/talking_english/真下头",
+              "id": "words_phrases/toeic",
+              "path": "/docs/words_phrases/toeic",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -220,8 +145,8 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/grammar/in_into_on_onto",
-                "label": "grammar/in_into_on_onto"
+                "path": "/docs/",
+                "label": "Catalogue"
               }
             }
           }
